@@ -1,0 +1,4651 @@
+{
+  "\n收货国家：{0}。": {
+    "en-US": "\nShipping country: {0}.",
+    "ja-JP": "\n配送先国：{0}。"
+  },
+  " + 关税": {
+    "en-US": " + Tariff",
+    "ja-JP": " + 関税"
+  },
+  " + 运费": {
+    "en-US": " + Shipping",
+    "ja-JP": " + 送料"
+  },
+  " / 件": {
+    "en-US": " / item",
+    "ja-JP": " / 点"
+  },
+  " / 候选 ": {
+    "en-US": " / candidate ",
+    "ja-JP": " / 候補 "
+  },
+  " · OpenAI 兼容": {
+    "en-US": " · OpenAI compatible",
+    "ja-JP": " · OpenAI 互換"
+  },
+  " · {0} 段 Think": {
+    "en-US": " · {0} Think segments",
+    "ja-JP": " · {0} 段の Think"
+  },
+  " · 固定标注查询": {
+    "en-US": " · Fixed annotation query",
+    "ja-JP": " · 固定注釈クエリ"
+  },
+  " · 图片仅示意": {
+    "en-US": " · Image for illustration only",
+    "ja-JP": " · 画像はイメージです"
+  },
+  " · 对应当前默认规格报价": {
+    "en-US": " · Quote for current default specs",
+    "ja-JP": " · 現在のデフォルト仕様の見積もり"
+  },
+  " · 当时库存 ": {
+    "en-US": " · Stock at the time ",
+    "ja-JP": " · 当時の在庫 "
+  },
+  " · 恢复补跑": {
+    "en-US": " · Resume rerun",
+    "ja-JP": " · 再実行を再開"
+  },
+  " · 数量 ": {
+    "en-US": " · Quantity ",
+    "ja-JP": " · 数量 "
+  },
+  " · 暂无实际用量": {
+    "en-US": " · No actual usage yet",
+    "ja-JP": " · 実際の使用量はまだありません"
+  },
+  " · 样例": {
+    "en-US": " · Sample",
+    "ja-JP": " · サンプル"
+  },
+  " · 模型声明上限 ": {
+    "en-US": " · Model-declared limit ",
+    "ja-JP": " · モデル宣言上限 "
+  },
+  " · 第 ": {
+    "en-US": " · No. ",
+    "ja-JP": " · 第 "
+  },
+  " · 结束": {
+    "en-US": " · End",
+    "ja-JP": " · 終了"
+  },
+  " · 配送至 ": {
+    "en-US": " · Deliver to ",
+    "ja-JP": " · 配送先 "
+  },
+  " · 默认规格": {
+    "en-US": " · Default specs",
+    "ja-JP": " · デフォルト仕様"
+  },
+  " 件": {
+    "en-US": " items",
+    "ja-JP": " 点"
+  },
+  " 件收藏": {
+    "en-US": " saved items",
+    "ja-JP": " 点のお気に入り"
+  },
+  " 单 · 第 ": {
+    "en-US": " orders · No. ",
+    "ja-JP": " 件 · 第 "
+  },
+  " 条": {
+    "en-US": " item",
+    "ja-JP": " 件目"
+  },
+  " 条待处理 ": {
+    "en-US": " pending items ",
+    "ja-JP": " 件の未処理 "
+  },
+  " 次尝试": {
+    "en-US": " attempts",
+    "ja-JP": " 回の試行"
+  },
+  " 次工具调用": {
+    "en-US": " tool calls",
+    "ja-JP": " 回のツール呼び出し"
+  },
+  " 版 · ": {
+    "en-US": " version · ",
+    "ja-JP": " 版 · "
+  },
+  " 版会话设置": {
+    "en-US": " version session settings",
+    "ja-JP": " 版のセッション設定"
+  },
+  " 轮": {
+    "en-US": " turns",
+    "ja-JP": " ターン"
+  },
+  " 页": {
+    "en-US": " pages",
+    "ja-JP": " ページ"
+  },
+  "0 违规且有正例覆盖": {
+    "en-US": "0 violations with positive coverage",
+    "ja-JP": "0 件の違反、正例カバレッジあり"
+  },
+  "1. 先确认行程天数、预算和目的地。\n2. 按重量、容量、材质比较候选。\n3. 信息不确定时先询问，不猜商品参数。": {
+    "en-US": "1. First confirm trip length, budget, and destination.\n2. Compare candidates by weight, capacity, and material.\n3. Ask when information is uncertain; don't guess product specs.",
+    "ja-JP": "1. まず旅行日数・予算・目的地を確認する。\n2. 重量・容量・素材で候補を比較する。\n3. 情報が不確かな場合はまず質問し、商品スペックを推測しない。"
+  },
+  "< 1 秒": {
+    "en-US": "< 1 sec",
+    "ja-JP": "< 1 秒"
+  },
+  "API 模型 ID": {
+    "en-US": "API model ID",
+    "ja-JP": "API モデル ID"
+  },
+  "Embedding 标识": {
+    "en-US": "Embedding identifier",
+    "ja-JP": "Embedding 識別子"
+  },
+  "English": {
+    "en-US": "English",
+    "ja-JP": "English"
+  },
+  "Esc 关闭": {
+    "en-US": "Esc to close",
+    "ja-JP": "Esc で閉じる"
+  },
+  "OrbitBuy · 商品检索评测": {
+    "en-US": "OrbitBuy · Product search evaluation",
+    "ja-JP": "OrbitBuy · 商品検索評価"
+  },
+  "OrbitBuy 环球好物": {
+    "en-US": "OrbitBuy Global Goods",
+    "ja-JP": "OrbitBuy グローバルグッズ"
+  },
+  "OrbitBuy 环球好物首页": {
+    "en-US": "OrbitBuy Global Goods home",
+    "ja-JP": "OrbitBuy グローバルグッズ ホーム"
+  },
+  "Skill 列表格式无效": {
+    "en-US": "Invalid Skill list format",
+    "ja-JP": "Skill リストの形式が無効です"
+  },
+  "Skill 已保存。回到选购，输入 / 就能使用。": {
+    "en-US": "Skill saved. Go back to shopping and type / to use it.",
+    "ja-JP": "Skill を保存しました。買い物に戻って / を入力すると使えます。"
+  },
+  "Skill 已删除，方案菜单已同步。": {
+    "en-US": "Skill deleted; the plan menu is synced.",
+    "ja-JP": "Skill を削除しました。プランメニューは同期済みです。"
+  },
+  "Think · 思考过程": {
+    "en-US": "Think · Reasoning process",
+    "ja-JP": "Think · 思考プロセス"
+  },
+  "tokens · 选用窗口预算": {
+    "en-US": "tokens · selected window budget",
+    "ja-JP": "tokens · 選択ウィンドウの予算"
+  },
+  "{0} 分 {1} 秒": {
+    "en-US": "{0} min {1} sec",
+    "ja-JP": "{0} 分 {1} 秒"
+  },
+  "{0} 可刷新确认状态；重试同一确认不会重复执行。": {
+    "en-US": "{0} can be refreshed to confirm status; retrying the same confirmation won't execute it twice.",
+    "ja-JP": "{0} を更新して状態を確認できます。同じ確認を再試行しても二重に実行されません。"
+  },
+  "{0} 商品详情": {
+    "en-US": "{0} product details",
+    "ja-JP": "{0} 商品詳細"
+  },
+  "{0} 字": {
+    "en-US": "{0} chars",
+    "ja-JP": "{0} 文字"
+  },
+  "{0} 秒": {
+    "en-US": "{0} sec",
+    "ja-JP": "{0} 秒"
+  },
+  "{0}{1} 个百分点": {
+    "en-US": "{0}{1} percentage points",
+    "ja-JP": "{0}{1} パーセントポイント"
+  },
+  "{0}对照图": {
+    "en-US": "{0} comparison image",
+    "ja-JP": "{0} 比較画像"
+  },
+  "{0}：同类商品 AI 示意图，非商品实拍，具体规格以文字为准": {
+    "en-US": "{0}: AI-generated illustration of similar products, not an actual photo; refer to the text for exact specs",
+    "ja-JP": "{0}：類似商品の AI 生成イメージであり実物写真ではありません。正確な仕様はテキストをご参照ください"
+  },
+  "{0}：暂无商品图片": {
+    "en-US": "{0}: no product image available",
+    "ja-JP": "{0}：商品画像はありません"
+  },
+  "“以后不用避开真皮了，删除这条偏好。”": {
+    "en-US": "\"No need to avoid genuine leather anymore; delete this preference.\"",
+    "ja-JP": "「今後は本革を避けなくて大丈夫です。この好みを削除してください。」"
+  },
+  "“把喜欢黑色改成喜欢蓝色，以后都按这个偏好。”": {
+    "en-US": "\"Change liking black to liking blue, and follow this preference from now on.\"",
+    "ja-JP": "「黒が好きを青が好きに変更し、今後はこの好みに従ってください。」"
+  },
+  "↑ ↓ 选择 · Enter 确定": {
+    "en-US": "↑ ↓ Select · Enter Confirm",
+    "ja-JP": "↑ ↓ 選択 · Enter 確定"
+  },
+  "★ {0}（{1} 条）": {
+    "en-US": "★ {0} ({1} items)",
+    "ja-JP": "★ {0}（{1} 件）"
+  },
+  "。当前显示上次读取的报告，尚未确认最新结果。": {
+    "en-US": ". Currently showing the previously read report; the latest results are not yet confirmed.",
+    "ja-JP": "。現在表示しているのは前回読み取ったレポートで、最新の結果はまだ確認されていません。"
+  },
+  "。本次采用兼容两者的保守输入上限。": {
+    "en-US": ". This time, a conservative input limit compatible with both is used.",
+    "ja-JP": "。今回は両方に対応する保守的な入力上限を採用しています。"
+  },
+  "。要使用新的配置，请从列表重新选择模型。": {
+    "en-US": ". To use the new configuration, reselect a model from the list.",
+    "ja-JP": "。新しい設定を使用するには、リストからモデルを再選択してください。"
+  },
+  "一二三四五六日": {
+    "en-US": "Mon Tue Wed Thu Fri Sat Sun",
+    "ja-JP": "一二三四五六日"
+  },
+  "一次可以比较 3 件商品，先移出一件再试试。 ": {
+    "en-US": "You can compare 3 products at a time. Remove one first and try again. ",
+    "ja-JP": "一度に比較できる商品は3件です。先に1件を外してからもう一度お試しください。 "
+  },
+  "一直记得。": {
+    "en-US": " always remembered.",
+    "ja-JP": "ずっと覚えています。"
+  },
+  "一起比较看看": {
+    "en-US": "Compare them together",
+    "ja-JP": "一緒に比較してみる"
+  },
+  "三类违规均为 0，且均有正例覆盖": {
+    "en-US": "All three violation types are 0, and each has positive-case coverage",
+    "ja-JP": "3種類の違反はいずれも0で、それぞれ正例のカバレッジがあります"
+  },
+  "上一轮尚可恢复，请先恢复或明确停止该运行。": {
+    "en-US": "The previous round can still be recovered. Please recover it first or explicitly stop that run.",
+    "ja-JP": "前回のラウンドはまだ復元できます。先に復元するか、その実行を明示的に停止してください。"
+  },
+  "上一页": {
+    "en-US": "Previous page",
+    "ja-JP": "前のページ"
+  },
+  "上下文使用 {0}，点击查看": {
+    "en-US": "Context usage {0}, click to view",
+    "ja-JP": "コンテキスト使用量 {0}、クリックして表示"
+  },
+  "上下文使用情况": {
+    "en-US": "Context usage",
+    "ja-JP": "コンテキスト使用状況"
+  },
+  "上下文窗口": {
+    "en-US": "Context window",
+    "ja-JP": "コンテキストウィンドウ"
+  },
+  "上下文默认显示 0%，尚无可用统计，点击查看": {
+    "en-US": "Context shows 0% by default; no statistics available yet, click to view",
+    "ja-JP": "コンテキストはデフォルトで0%表示、利用可能な統計はまだありません。クリックして表示"
+  },
+  "下一轮：": {
+    "en-US": "Next round:",
+    "ja-JP": "次のラウンド："
+  },
+  "下一页": {
+    "en-US": "Next page",
+    "ja-JP": "次のページ"
+  },
+  "下单、取消订单及修改长期偏好仍需你确认。": {
+    "en-US": "Placing orders, canceling orders, and changing long-term preferences still require your confirmation.",
+    "ja-JP": "注文、注文のキャンセル、長期的な好みの変更には引き続きあなたの確認が必要です。"
+  },
+  "下单意向": {
+    "en-US": "Order intent",
+    "ja-JP": "意向注文"
+  },
+  "下次执行": {
+    "en-US": "Next run",
+    "ja-JP": "次回実行"
+  },
+  "不含运费与关税": {
+    "en-US": "Excludes shipping and duties",
+    "ja-JP": "送料と関税は含みません"
+  },
+  "不启用思考参数": {
+    "en-US": "Thinking parameters disabled",
+    "ja-JP": "思考パラメータを無効化"
+  },
+  "不支持": {
+    "en-US": "Not supported",
+    "ja-JP": "非対応"
+  },
+  "个人 Skill · 修订 ": {
+    "en-US": "Personal Skill · Revision ",
+    "ja-JP": "個人スキル · リビジョン "
+  },
+  "个人资料服务返回格式无效": {
+    "en-US": "Profile service returned an invalid format",
+    "ja-JP": "プロフィールサービスが無効な形式を返しました"
+  },
+  "中": {
+    "en-US": "Medium",
+    "ja-JP": "中"
+  },
+  "中国 · CN": {
+    "en-US": "China · CN",
+    "ja-JP": "中国 · CN"
+  },
+  "中日英语言切换": {
+    "en-US": "Switch language: Chinese, Japanese, English",
+    "ja-JP": "中日英の言語切り替え"
+  },
+  "主导航": {
+    "en-US": "Main navigation",
+    "ja-JP": "メインナビゲーション"
+  },
+  "买家已提交本轮澄清答案。": {
+    "en-US": "The buyer has submitted answers to this round's clarifications.",
+    "ja-JP": "買い手が今回の確認事項への回答を送信しました。"
+  },
+  "事件流提前结束": {
+    "en-US": "Event stream ended early",
+    "ja-JP": "イベントストリームが早期に終了しました"
+  },
+  "事件游标不属于当前运行": {
+    "en-US": "Event cursor does not belong to the current run",
+    "ja-JP": "イベントカーソルが現在の実行に属していません"
+  },
+  "事件游标无效": {
+    "en-US": "Invalid event cursor",
+    "ja-JP": "イベントカーソルが無効です"
+  },
+  "事件顺序有缺口，重新读取持久日志": {
+    "en-US": "Gap in event order; re-reading the persistent log",
+    "ja-JP": "イベント順序に欠落があるため、永続ログを再読み取りします"
+  },
+  "五字段 cron": {
+    "en-US": "Five-field cron",
+    "ja-JP": "5フィールドのcron"
+  },
+  "交易确认与意向单": {
+    "en-US": "Transaction confirmation and order intents",
+    "ja-JP": "取引確認と意向注文"
+  },
+  "什么时候使用": {
+    "en-US": "When to use",
+    "ja-JP": "使用する場面"
+  },
+  "仅展示模型实际返回的思考内容，正在等待过程事件。": {
+    "en-US": "Only shows thinking content actually returned by the model; waiting for process events.",
+    "ja-JP": "モデルが実際に返した思考内容のみを表示しています。プロセスイベントを待機中です。"
+  },
+  "仅用于你的选购": {
+    "en-US": "Only for your shopping",
+    "ja-JP": "あなたの買い物にのみ使用"
+  },
+  "仅记录下单意向，尚未支付，也未安排发货。": {
+    "en-US": "Only records order intent; no payment made and no shipping arranged.",
+    "ja-JP": "意向注文を記録するのみで、支払いは未完了、発送も未手配です。"
+  },
+  "从场景出发": {
+    "en-US": "Start from a scenario",
+    "ja-JP": "シーンから始める"
+  },
+  "从每周清单开始，或创建你自己的任务。": {
+    "en-US": "Start from the weekly list, or create your own task.",
+    "ja-JP": "週次リストから始めるか、独自のタスクを作成してください。"
+  },
+  "从这里开始。": {
+    "en-US": "Start here.",
+    "ja-JP": "ここから始めましょう。"
+  },
+  "以下为当时保存的商品信息。价格、库存和配送条件可能变化，继续购买前请重新核验。": {
+    "en-US": "Below is the product information saved at the time. Prices, stock, and delivery conditions may change; please re-verify before continuing your purchase.",
+    "ja-JP": "以下は当時保存された商品情報です。価格、在庫、配送条件は変わる可能性があるため、購入を続ける前に再確認してください。"
+  },
+  "以下是本次配置。连通性校验不证明最大窗口容量；提高本地预算也不会扩大供应商实际支持的窗口。": {
+    "en-US": "Below is the current configuration. A connectivity check does not prove maximum window capacity; raising the local budget will not expand the window actually supported by the provider.",
+    "ja-JP": "以下が今回の設定です。接続性チェックは最大ウィンドウ容量を証明するものではありません。ローカル予算を増やしても、プロバイダーが実際にサポートするウィンドウは拡大しません。"
+  },
+  "以逗号分隔，每个值都不得超过模型最大窗口。": {
+    "en-US": "Comma-separated; each value must not exceed the model's maximum window.",
+    "ja-JP": "カンマ区切りで、各値はモデルの最大ウィンドウを超えてはなりません。"
+  },
+  "件": {
+    "en-US": "items",
+    "ja-JP": "件"
+  },
+  "件商品": {
+    "en-US": "products",
+    "ja-JP": "件の商品"
+  },
+  "价格、库存为目录查询结果，购买前需要再次核对。图片与评分如标注为示意或样例，不代表实时平台信息。": {
+    "en-US": "Prices and stock are catalog query results and must be re-checked before purchase. Images and ratings marked as illustrative or sample do not represent real-time platform information.",
+    "ja-JP": "価格と在庫はカタログ照会の結果であり、購入前に再確認が必要です。イメージやサンプルと記載された画像・評価は、リアルタイムのプラットフォーム情報を表すものではありません。"
+  },
+  "价格与库存以重新查询为准；需要修改需求，直接告诉 OrbitBuy。": {
+    "en-US": "Prices and stock are subject to re-query; to change your requirements, just tell OrbitBuy.",
+    "ja-JP": "価格と在庫は再照会時点のものが適用されます。要件を変更する場合は、OrbitBuy に直接お伝えください。"
+  },
+  "任务名称": {
+    "en-US": "Task name",
+    "ja-JP": "タスク名"
+  },
+  "任务输出": {
+    "en-US": "Task output",
+    "ja-JP": "タスク出力"
+  },
+  "低": {
+    "en-US": "Low",
+    "ja-JP": "低"
+  },
+  "你": {
+    "en-US": "You",
+    "ja-JP": "あなた"
+  },
+  "你的下一件好物，": {
+    "en-US": "Your next great find,",
+    "ja-JP": "あなたの次のお気に入り、"
+  },
+  "你的偏好，": {
+    "en-US": "Your preferences,",
+    "ja-JP": "あなたの好み、"
+  },
+  "你的心选": {
+    "en-US": "Your picks",
+    "ja-JP": "あなたの心選"
+  },
+  "你的第一份选购方法，": {
+    "en-US": "Your first shopping method,",
+    "ja-JP": "あなたの最初の買い物方法、"
+  },
+  "使用模板": {
+    "en-US": "Use template",
+    "ja-JP": "テンプレートを使用"
+  },
+  "例如 low, medium, high。仅填写该模型确实支持的值。": {
+    "en-US": "For example low, medium, high. Enter only values this model actually supports.",
+    "ja-JP": "例：low, medium, high。このモデルが実際にサポートする値のみ入力してください。"
+  },
+  "例如：千问旗舰模型": {
+    "en-US": "For example: Qwen flagship model",
+    "ja-JP": "例：Qwen フラッグシップモデル"
+  },
+  "例如：周末出游，需要按重量和预算挑装备时": {
+    "en-US": "For example: weekend outings, when picking gear by weight and budget",
+    "ja-JP": "例：週末のお出かけで、重量と予算に合わせて装備を選ぶとき"
+  },
+  "例如：喜欢轻便、小众设计的商品": {
+    "en-US": "For example: likes lightweight, niche-design products",
+    "ja-JP": "例：軽量でニッチなデザインの商品が好き"
+  },
+  "例如：我的轻装出行方案": {
+    "en-US": "For example: my lightweight travel plan",
+    "ja-JP": "例：私の軽装出行プラン"
+  },
+  "例如：每周通勤好物": {
+    "en-US": "For example: weekly commute picks",
+    "ja-JP": "例：毎週の通勤おすすめ"
+  },
+  "例如：调整了购买计划": {
+    "en-US": "For example: adjusted the purchase plan",
+    "ja-JP": "例：購入計画を調整しました"
+  },
+  "供应商": {
+    "en-US": "Provider",
+    "ja-JP": "プロバイダー"
+  },
+  "供应商提供的 model_id": {
+    "en-US": "model_id provided by the provider",
+    "ja-JP": "プロバイダーが提供する model_id"
+  },
+  "供应商支持的强度档位": {
+    "en-US": "Intensity levels supported by the provider",
+    "ja-JP": "プロバイダーがサポートする強度レベル"
+  },
+  "保存 Skill": {
+    "en-US": "Save Skill",
+    "ja-JP": "スキルを保存"
+  },
+  "保存中…": {
+    "en-US": "Saving…",
+    "ja-JP": "保存中…"
+  },
+  "保存你的选购方法，在对话中输入 / 随时调用。": {
+    "en-US": "Save your shopping method and call it anytime by typing / in the chat.",
+    "ja-JP": "買い物方法を保存し、チャットで / を入力していつでも呼び出せます。"
+  },
+  "保存偏好": {
+    "en-US": "Save preferences",
+    "ja-JP": "好みを保存"
+  },
+  "保存即确认本次设置，正在运行的轮次保持原配置。": {
+    "en-US": "Saving confirms these settings; running turns keep their original configuration.",
+    "ja-JP": "保存すると今回の設定が確定します。実行中のターンは元の設定のままです。"
+  },
+  "保存失败，请重试": {
+    "en-US": "Save failed, please try again",
+    "ja-JP": "保存に失敗しました。もう一度お試しください"
+  },
+  "保存失败，请重试。": {
+    "en-US": "Save failed, please try again.",
+    "ja-JP": "保存に失敗しました。もう一度お試しください。"
+  },
+  "保存设置": {
+    "en-US": "Save settings",
+    "ja-JP": "設定を保存"
+  },
+  "保留": {
+    "en-US": "Keep",
+    "ja-JP": "保持"
+  },
+  "保留意向单": {
+    "en-US": "Keep order intent",
+    "ja-JP": "意向注文を保持"
+  },
+  "保留第 ": {
+    "en-US": "Keep No. ",
+    "ja-JP": "第 "
+  },
+  "保留订单": {
+    "en-US": "Keep order",
+    "ja-JP": "注文を保持"
+  },
+  "修改": {
+    "en-US": "Edit",
+    "ja-JP": "変更"
+  },
+  "修改偏好": {
+    "en-US": "Edit preferences",
+    "ja-JP": "好みを変更"
+  },
+  "候选": {
+    "en-US": "Candidates",
+    "ja-JP": "候補"
+  },
+  "候选 NDCG@5": {
+    "en-US": "Candidate NDCG@5",
+    "ja-JP": "候補 NDCG@5"
+  },
+  "候选报告": {
+    "en-US": "Candidate report",
+    "ja-JP": "候補レポート"
+  },
+  "候选违规商品": {
+    "en-US": "Candidate violating products",
+    "ja-JP": "候補の違反商品"
+  },
+  "候选适用查询": {
+    "en-US": "Queries applicable to candidates",
+    "ja-JP": "候補に適用可能なクエリ"
+  },
+  "候选适用正例": {
+    "en-US": "Positive examples applicable to candidates",
+    "ja-JP": "候補に適用可能な正例"
+  },
+  "偏好保存后生效，已开始的回复保持原设置。": {
+    "en-US": "Preferences take effect after saving; replies already started keep their original settings.",
+    "ja-JP": "好みは保存後に有効になります。開始済みの返信は元の設定のままです。"
+  },
+  "偏好内容": {
+    "en-US": "Preference content",
+    "ja-JP": "好みの内容"
+  },
+  "偏好列表格式无效": {
+    "en-US": "Invalid preference list format",
+    "ja-JP": "好みリストの形式が無効です"
+  },
+  "偏好已保存，下一轮和新会话都会读取。": {
+    "en-US": "Preferences saved; they will be read in the next turn and in new sessions.",
+    "ja-JP": "好みを保存しました。次のターンと新しいセッションで読み込まれます。"
+  },
+  "偏好类型": {
+    "en-US": "Preference type",
+    "ja-JP": "好みのタイプ"
+  },
+  "停止": {
+    "en-US": "Stop",
+    "ja-JP": "停止"
+  },
+  "停止本次": {
+    "en-US": "Stop this one",
+    "ja-JP": "今回を停止"
+  },
+  "停止本轮": {
+    "en-US": "Stop this turn",
+    "ja-JP": "このターンを停止"
+  },
+  "停止生成": {
+    "en-US": "Stop generating",
+    "ja-JP": "生成を停止"
+  },
+  "停止请求尚未确认，服务端可能仍在执行。{0}": {
+    "en-US": "Stop request not yet confirmed; the server may still be running. {0}",
+    "ja-JP": "停止リクエストはまだ確認されていません。サーバー側でまだ実行中の可能性があります。{0}"
+  },
+  "停止请求已保存。": {
+    "en-US": "Stop request saved.",
+    "ja-JP": "停止リクエストを保存しました。"
+  },
+  "停止请求已发送，正在等待服务端确认。已有内容已保留。": {
+    "en-US": "Stop request sent, waiting for server confirmation. Existing content has been kept.",
+    "ja-JP": "停止リクエストを送信しました。サーバーの確認を待っています。既存の内容は保持されています。"
+  },
+  "停止请求已送达，等待服务端收尾": {
+    "en-US": "Stop request delivered, waiting for the server to finish up",
+    "ja-JP": "停止リクエストを送信しました。サーバーの終了処理を待っています"
+  },
+  "先停在这里，也没关系": {
+    "en-US": "It's okay to stop here for now",
+    "ja-JP": "ここで一旦止めても大丈夫です"
+  },
+  "先核对，再决定": {
+    "en-US": "Check first, then decide",
+    "ja-JP": "まず確認してから決める"
+  },
+  "先统一数据、检索口径与评测配置，再作优化验收。": {
+    "en-US": "Unify data, retrieval criteria, and evaluation configuration first, then optimize and accept.",
+    "ja-JP": "まずデータ、検索基準、評価設定を統一してから、最適化と受け入れを行います。"
+  },
+  "全部": {
+    "en-US": "All",
+    "ja-JP": "すべて"
+  },
+  "全部方法": {
+    "en-US": "All methods",
+    "ja-JP": "すべての方法"
+  },
+  "全部样本": {
+    "en-US": "All samples",
+    "ja-JP": "すべてのサンプル"
+  },
+  "全部模型的搜索结果": {
+    "en-US": "Search results from all models",
+    "ja-JP": "すべてのモデルの検索結果"
+  },
+  "共 ": {
+    "en-US": "Total ",
+    "ja-JP": "合計 "
+  },
+  "关注你在意的不同，也给决定留一点空间。": {
+    "en-US": "Focus on the differences you care about, and leave some room for decisions.",
+    "ja-JP": "気になる違いに注目し、決定には少し余裕を残しましょう。"
+  },
+  "关注商品：": {
+    "en-US": "Followed products:",
+    "ja-JP": "フォロー中の商品："
+  },
+  "关闭": {
+    "en-US": "Close",
+    "ja-JP": "閉じる"
+  },
+  "关闭上下文详情": {
+    "en-US": "Close context details",
+    "ja-JP": "コンテキストの詳細を閉じる"
+  },
+  "关闭导航": {
+    "en-US": "Close navigation",
+    "ja-JP": "ナビゲーションを閉じる"
+  },
+  "关闭氛围背景": {
+    "en-US": "Close ambient background",
+    "ja-JP": "アンビエント背景を閉じる"
+  },
+  "内容较长，此处展示已保存的片段。": {
+    "en-US": "The content is long; saved snippets are shown here.",
+    "ja-JP": "内容が長いため、保存された抜粋をここに表示しています。"
+  },
+  "再试一次": {
+    "en-US": "Try again",
+    "ja-JP": "もう一度試す"
+  },
+  "写一份新 Skill": {
+    "en-US": "Write a new Skill",
+    "ja-JP": "新しいスキルを作成"
+  },
+  "准备下单意向": {
+    "en-US": "Prepare order intent",
+    "ja-JP": "意向注文を準備"
+  },
+  "准备中": {
+    "en-US": "Preparing",
+    "ja-JP": "準備中"
+  },
+  "准确率不退化，缺少覆盖待验收": {
+    "en-US": "Accuracy does not degrade; missing coverage pending acceptance",
+    "ja-JP": "精度は低下せず、カバレッジ不足は受け入れ待ち"
+  },
+  "凭据来源": {
+    "en-US": "Credential source",
+    "ja-JP": "認証情報のソース"
+  },
+  "分 时 日 月 星期；日与星期同时限定时满足其一即执行。": {
+    "en-US": "Minute Hour Day Month Weekday; when both day and weekday are specified, either one triggers execution.",
+    "ja-JP": "分 時 日 月 曜日；日と曜日の両方が指定された場合、いずれかを満たせば実行します。"
+  },
+  "分类": {
+    "en-US": "Category",
+    "ja-JP": "カテゴリ"
+  },
+  "列表显示": {
+    "en-US": "List display",
+    "ja-JP": "リスト表示"
+  },
+  "创建": {
+    "en-US": "Create",
+    "ja-JP": "作成"
+  },
+  "创建自动化": {
+    "en-US": "Create automation",
+    "ja-JP": "自動化を作成"
+  },
+  "删除": {
+    "en-US": "Delete",
+    "ja-JP": "削除"
+  },
+  "删除 Skill：": {
+    "en-US": "Delete Skill:",
+    "ja-JP": "スキルを削除："
+  },
+  "删除偏好：": {
+    "en-US": "Delete preference:",
+    "ja-JP": "好みを削除："
+  },
+  "删除后将不能再调用。": {
+    "en-US": "Once deleted, it can no longer be invoked.",
+    "ja-JP": "削除後は呼び出せなくなります。"
+  },
+  "到手价": {
+    "en-US": "Final price",
+    "ja-JP": "最終価格"
+  },
+  "到手价待目的地与规格确认": {
+    "en-US": "Final price pending destination and specification confirmation",
+    "ja-JP": "最終価格は目的地と仕様の確認待ち"
+  },
+  "到手价待目的地与规格确认。": {
+    "en-US": "Final price pending destination and specification confirmation.",
+    "ja-JP": "最終価格は目的地と仕様の確認待ちです。"
+  },
+  "到期日期": {
+    "en-US": "Expiration date",
+    "ja-JP": "有効期限"
+  },
+  "到点自动查询与分析；关闭时需点击开始。": {
+    "en-US": "Automatically queries and analyzes at the scheduled time; when off, click Start.",
+    "ja-JP": "指定時刻に自動で検索・分析します。オフの場合は開始をクリックしてください。"
+  },
+  "刷新": {
+    "en-US": "Refresh",
+    "ja-JP": "更新"
+  },
+  "刷新报告": {
+    "en-US": "Refresh report",
+    "ja-JP": "レポートを更新"
+  },
+  "刷新方案": {
+    "en-US": "Refresh plan",
+    "ja-JP": "プランを更新"
+  },
+  "刷新订单": {
+    "en-US": "Refresh order",
+    "ja-JP": "注文を更新"
+  },
+  "刷新记录": {
+    "en-US": "Refresh records",
+    "ja-JP": "記録を更新"
+  },
+  "前五项覆盖了多少标注相关商品，越高越好。": {
+    "en-US": "How many of the top five cover labeled relevant products; higher is better.",
+    "ja-JP": "上位5件がラベル付きの関連商品をどれだけカバーしたか。高いほど良い。"
+  },
+  "加入比较": {
+    "en-US": "Add to comparison",
+    "ja-JP": "比較に追加"
+  },
+  "加载失败，请重试": {
+    "en-US": "Loading failed, please try again",
+    "ja-JP": "読み込みに失敗しました。もう一度お試しください"
+  },
+  "勾选后使用已有连接测试新型号，无需再次填写密钥。": {
+    "en-US": "After checking, test new models with existing connections without re-entering keys.",
+    "ja-JP": "チェックすると、既存の接続で新しいモデルをテストでき、キーの再入力は不要です。"
+  },
+  "勾选商品卡下方的“加入比较”，可并排比较 2 至 3 件商品。 ": {
+    "en-US": "Check \"Add to comparison\" below a product card to compare 2 to 3 products side by side. ",
+    "ja-JP": "商品カード下の「比較に追加」にチェックすると、2〜3件の商品を並べて比較できます。 "
+  },
+  "勾选商品，轻松对比": {
+    "en-US": "Select products for easy comparison",
+    "ja-JP": "商品を選んで簡単に比較"
+  },
+  "包含系统提示、工具定义和已保存的对话；不含正在输入的草稿。": {
+    "en-US": "Includes system prompts, tool definitions, and saved conversations; excludes drafts being typed.",
+    "ja-JP": "システムプロンプト、ツール定義、保存済みの会話を含みます。入力中の下書きは含みません。"
+  },
+  "单价": {
+    "en-US": "Unit price",
+    "ja-JP": "単価"
+  },
+  "单次": {
+    "en-US": "Single",
+    "ja-JP": "単回"
+  },
+  "单次 {0}": {
+    "en-US": "Single {0}",
+    "ja-JP": "単回 {0}"
+  },
+  "历史偏好迁移": {
+    "en-US": "Historical preference migration",
+    "ja-JP": "過去の好みの移行"
+  },
+  "历史商品批次": {
+    "en-US": "Historical product batches",
+    "ja-JP": "過去の商品バッチ"
+  },
+  "历史商品记录 · ": {
+    "en-US": "Historical product records · ",
+    "ja-JP": "過去の商品記録 · "
+  },
+  "压缩工作上下文，完整聊天和商品历史仍保留。": {
+    "en-US": "Compress working context; full chat and product history are still retained.",
+    "ja-JP": "作業コンテキストを圧縮します。完全なチャットと商品履歴は引き続き保持されます。"
+  },
+  "原产地": {
+    "en-US": "Country of origin",
+    "ja-JP": "原産地"
+  },
+  "原偏好": {
+    "en-US": "Original preference",
+    "ja-JP": "元の好み"
+  },
+  "去发现好物": {
+    "en-US": "Discover great finds",
+    "ja-JP": "お得な商品を発見"
+  },
+  "参数无法展示，请拒绝后重新描述需求。": {
+    "en-US": "Parameters cannot be displayed; please decline and re-describe your needs.",
+    "ja-JP": "パラメータを表示できません。拒否して要件を再度説明してください。"
+  },
+  "发现 100 元以内的好物": {
+    "en-US": "Discover great finds under 100 CNY",
+    "ja-JP": "100元以内のお得な商品を発見"
+  },
+  "发送选购需求": {
+    "en-US": "Send shopping needs",
+    "ja-JP": "購入希望を送信"
+  },
+  "取消": {
+    "en-US": "Cancel",
+    "ja-JP": "キャンセル"
+  },
+  "取消原因": {
+    "en-US": "Cancellation reason",
+    "ja-JP": "キャンセル理由"
+  },
+  "取消原因：": {
+    "en-US": "Cancellation reason:",
+    "ja-JP": "キャンセル理由："
+  },
+  "取消已选方案": {
+    "en-US": "Cancel selected option",
+    "ja-JP": "選択したプランをキャンセル"
+  },
+  "取消收藏": {
+    "en-US": "Remove from favorites",
+    "ja-JP": "お気に入りから削除"
+  },
+  "取消收藏 {0}": {
+    "en-US": "Remove {0} from favorites",
+    "ja-JP": "{0} をお気に入りから削除"
+  },
+  "取消确认": {
+    "en-US": "Confirm cancellation",
+    "ja-JP": "キャンセルの確認"
+  },
+  "取消订单": {
+    "en-US": "Cancel order",
+    "ja-JP": "注文をキャンセル"
+  },
+  "变化": {
+    "en-US": "Change",
+    "ja-JP": "変化"
+  },
+  "变化 ": {
+    "en-US": "Change ",
+    "ja-JP": "変化 "
+  },
+  "变化 ≥ {0}": {
+    "en-US": "Change ≥ {0}",
+    "ja-JP": "変化 ≥ {0}"
+  },
+  "变更记录": {
+    "en-US": "Change history",
+    "ja-JP": "変更履歴"
+  },
+  "变更记录读取失败，请重试": {
+    "en-US": "Failed to load change history. Please try again.",
+    "ja-JP": "変更履歴の読み込みに失敗しました。もう一度お試しください。"
+  },
+  "只在服务端复用这条连接的凭据，服务地址与供应商已锁定。取消勾选可填写新连接。": {
+    "en-US": "Only the credentials of this connection are reused on the server; the service address and provider are locked. Uncheck to enter a new connection.",
+    "ja-JP": "この接続の認証情報はサーバー側でのみ再利用され、サービスアドレスとプロバイダーは固定されています。チェックを外すと新しい接続を入力できます。"
+  },
+  "只是此模型的初始选项，不会替换已有会话或新会话默认模型。": {
+    "en-US": "This is only the initial option for this model; it will not replace the default model of existing or new conversations.",
+    "ja-JP": "これはこのモデルの初期オプションにすぎず、既存または新規の会話のデフォルトモデルを置き換えることはありません。"
+  },
+  "可以先写下一件你在意的小事。": {
+    "en-US": "You can start by writing down one small thing that matters to you.",
+    "ja-JP": "まずは気になっている小さなことを一つ書いてみましょう。"
+  },
+  "可调整自己的列表和默认选项；添加或编辑连接需要本机或管理员权限。": {
+    "en-US": "You can adjust your own lists and default options; adding or editing connections requires local or administrator permissions.",
+    "ja-JP": "自分のリストとデフォルトオプションは調整できます。接続の追加や編集にはローカルまたは管理者権限が必要です。"
+  },
+  "可选方案": {
+    "en-US": "Available options",
+    "ja-JP": "選択可能なプラン"
+  },
+  "可选的本次上限": {
+    "en-US": "Optional limit for this session",
+    "ja-JP": "今回の任意上限"
+  },
+  "可选规格": {
+    "en-US": "Available specifications",
+    "ja-JP": "選択可能な仕様"
+  },
+  "可选，按服务商限制填写": {
+    "en-US": "Optional; follow provider limits",
+    "ja-JP": "任意。プロバイダーの制限に従って入力"
+  },
+  "各窗口档位需大于输出预留与安全余量，且不超过模型最大窗口。": {
+    "en-US": "Each window tier must exceed the output reserve and safety margin, and must not exceed the model's maximum window.",
+    "ja-JP": "各ウィンドウ枠は出力予約と安全余量を上回り、モデルの最大ウィンドウを超えてはなりません。"
+  },
+  "合并任务输出": {
+    "en-US": "Merged task output",
+    "ja-JP": "統合タスク出力"
+  },
+  "合并输出": {
+    "en-US": "Merged output",
+    "ja-JP": "統合出力"
+  },
+  "同步最终建议": {
+    "en-US": "Sync final suggestions",
+    "ja-JP": "最終提案を同期"
+  },
+  "名称": {
+    "en-US": "Name",
+    "ja-JP": "名前"
+  },
+  "告诉 OrbitBuy 你想寻找的好物": {
+    "en-US": "Tell OrbitBuy what you're looking for",
+    "ja-JP": "OrbitBuy で探しているものを教えてください"
+  },
+  "告诉我你的期待，剩下的，一起慢慢选。": {
+    "en-US": "Tell me what you're hoping for, and we'll take our time choosing the rest together.",
+    "ja-JP": "期待を教えてください。残りは一緒にゆっくり選びましょう。"
+  },
+  "周": {
+    "en-US": "Week",
+    "ja-JP": "週"
+  },
+  "商品价": {
+    "en-US": "Item price",
+    "ja-JP": "商品価格"
+  },
+  "商品信息与规格": {
+    "en-US": "Product info and specifications",
+    "ja-JP": "商品情報と仕様"
+  },
+  "商品分类": {
+    "en-US": "Product category",
+    "ja-JP": "商品カテゴリ"
+  },
+  "商品合计 ": {
+    "en-US": "Item subtotal ",
+    "ja-JP": "商品合計 "
+  },
+  "商品图片": {
+    "en-US": "Product image",
+    "ja-JP": "商品画像"
+  },
+  "商品图片待补充": {
+    "en-US": "Product image to be added",
+    "ja-JP": "商品画像は追加予定"
+  },
+  "商品搜索当前使用关键词检索": {
+    "en-US": "Product search currently uses keyword retrieval",
+    "ja-JP": "商品検索は現在キーワード検索を使用しています"
+  },
+  "商品搜索结果": {
+    "en-US": "Product search results",
+    "ja-JP": "商品検索結果"
+  },
+  "商品数": {
+    "en-US": "Number of items",
+    "ja-JP": "商品数"
+  },
+  "商品检索评测": {
+    "en-US": "Product retrieval evaluation",
+    "ja-JP": "商品検索評価"
+  },
+  "商品比较": {
+    "en-US": "Compare products",
+    "ja-JP": "商品比較"
+  },
+  "商品特点": {
+    "en-US": "Product features",
+    "ja-JP": "商品の特徴"
+  },
+  "商品目录指纹": {
+    "en-US": "Product catalog fingerprint",
+    "ja-JP": "商品カタログフィンガープリント"
+  },
+  "商品示意图 · 非实物照片": {
+    "en-US": "Product illustration · not an actual photo",
+    "ja-JP": "商品イメージ図 · 実物写真ではありません"
+  },
+  "商品结果尚未保存。": {
+    "en-US": "Product results have not been saved yet.",
+    "ja-JP": "商品結果はまだ保存されていません。"
+  },
+  "商品编号": {
+    "en-US": "Product number",
+    "ja-JP": "商品番号"
+  },
+  "商品评分": {
+    "en-US": "Product rating",
+    "ja-JP": "商品評価"
+  },
+  "商品详情": {
+    "en-US": "Product details",
+    "ja-JP": "商品詳細"
+  },
+  "商品金额合计": {
+    "en-US": "Total item amount",
+    "ja-JP": "商品金額合計"
+  },
+  "喜欢": {
+    "en-US": "Like",
+    "ja-JP": "好き"
+  },
+  "喜欢 · 希望优先考虑": {
+    "en-US": "Like · prefer to prioritize",
+    "ja-JP": "好き · 優先的に考慮してほしい"
+  },
+  "喜欢什么、想避开什么，都可以写在这里。每次开始选购，我会带上这些记忆。": {
+    "en-US": "Write here what you like and what you'd rather avoid. I'll keep these in mind each time we start shopping.",
+    "ja-JP": "好きなものや避けたいことをここに書いてください。買い物を始めるたびに、この記憶を踏まえます。"
+  },
+  "回放 P95（非线上）": {
+    "en-US": "Replay P95 (non-production)",
+    "ja-JP": "リプレイ P95（非本番）"
+  },
+  "回答预留 ": {
+    "en-US": "Answer reserve ",
+    "ja-JP": "回答予約 "
+  },
+  "固定商品目录与标注查询，用同一套标准衡量每次优化。": {
+    "en-US": "Fixed product catalog and labeled queries, measuring each optimization against the same standard.",
+    "ja-JP": "固定の商品カタログとラベル付きクエリで、同じ基準で各最適化を評価します。"
+  },
+  "国家或地区": {
+    "en-US": "Country or region",
+    "ja-JP": "国または地域"
+  },
+  "在固定查询与商品目录下比较候选和基线。": {
+    "en-US": "Compare candidates against the baseline under a fixed query and product catalog.",
+    "ja-JP": "固定クエリと商品カタログの下で候補とベースラインを比較します。"
+  },
+  "在对话中管理偏好": {
+    "en-US": "Manage preferences in conversation",
+    "ja-JP": "会話で好みを管理"
+  },
+  "在选择列表显示": {
+    "en-US": "Show in selection list",
+    "ja-JP": "選択リストに表示"
+  },
+  "在选购对话中挑选商品并确认下单后，订单会保存在这里。": {
+    "en-US": "After you pick products in a shopping conversation and confirm the order, the order is saved here.",
+    "ja-JP": "購入会話で商品を選び注文を確定すると、注文はここに保存されます。"
+  },
+  "场景": {
+    "en-US": "Scenario",
+    "ja-JP": "シナリオ"
+  },
+  "型号预设": {
+    "en-US": "Model preset",
+    "ja-JP": "モデルプリセット"
+  },
+  "城市": {
+    "en-US": "City",
+    "ja-JP": "都市"
+  },
+  "基于当前查看的目录快照比较。不同规格、配送地区与币种可能影响最终价格；未提供的信息不做推断。": {
+    "en-US": "Compared based on the currently viewed catalog snapshot. Different specs, delivery regions, and currencies may affect the final price; no inferences are made for missing information.",
+    "ja-JP": "現在表示中のカタログスナップショットに基づいて比較します。異なる仕様、配送地域、通貨は最終価格に影響する場合があります。提供されていない情報は推測しません。"
+  },
+  "基线": {
+    "en-US": "Baseline",
+    "ja-JP": "ベースライン"
+  },
+  "基线 ": {
+    "en-US": "Baseline ",
+    "ja-JP": "ベースライン "
+  },
+  "基线 NDCG@5": {
+    "en-US": "Baseline NDCG@5",
+    "ja-JP": "ベースライン NDCG@5"
+  },
+  "基线报告": {
+    "en-US": "Baseline report",
+    "ja-JP": "ベースラインレポート"
+  },
+  "基线违规商品": {
+    "en-US": "Baseline violating products",
+    "ja-JP": "ベースライン違反商品"
+  },
+  "填写收货信息后，我们会重新核对价格与库存，生成一张由你确认的意向单。": {
+    "en-US": "After you fill in the shipping information, we will recheck the price and stock and generate an order intent for you to confirm.",
+    "ja-JP": "配送情報を入力すると、価格と在庫を再確認し、あなたが確認する意向注文を作成します。"
+  },
+  "声明上限": {
+    "en-US": "Declared limit",
+    "ja-JP": "宣言上限"
+  },
+  "处理完成": {
+    "en-US": "Processing complete",
+    "ja-JP": "処理完了"
+  },
+  "失败": {
+    "en-US": "Failed",
+    "ja-JP": "失敗"
+  },
+  "好物详情": {
+    "en-US": "Product details",
+    "ja-JP": "商品詳細"
+  },
+  "好物跨越距离，选择回到你心里": {
+    "en-US": "Good finds cross any distance, and the choice returns to your heart",
+    "ja-JP": "良い品は距離を越え、選択はあなたの心に戻る"
+  },
+  "安全余量 ": {
+    "en-US": "Safety margin ",
+    "ja-JP": "安全余量 "
+  },
+  "安排时间，写下需求，选择每次结果如何保存。": {
+    "en-US": "Schedule a time, write down your needs, and choose how each result is saved.",
+    "ja-JP": "時間を設定し、要望を書き、各結果の保存方法を選択します。"
+  },
+  "官方参考窗口 ": {
+    "en-US": "Official reference window ",
+    "ja-JP": "公式参考ウィンドウ "
+  },
+  "官方规格与版本说明 ↗": {
+    "en-US": "Official specs and version notes ↗",
+    "ja-JP": "公式仕様とバージョン説明 ↗"
+  },
+  "官方输入上限：关闭思考 ": {
+    "en-US": "Official input limit: thinking off ",
+    "ja-JP": "公式入力上限：思考オフ "
+  },
+  "实际展示结果中相关商品的占比，同款重复不加分。": {
+    "en-US": "The share of relevant products among actually displayed results; duplicates of the same item earn no extra credit.",
+    "ja-JP": "実際に表示された結果に占める関連商品の割合。同一商品の重複は加点されません。"
+  },
+  "容量与思考设置": {
+    "en-US": "Capacity and thinking settings",
+    "ja-JP": "容量と思考設定"
+  },
+  "密钥已配置且不会回显；修改服务地址时请同时填写对应的新密钥。": {
+    "en-US": "The key is configured and will not be echoed; when changing the service address, also enter the corresponding new key.",
+    "ja-JP": "キーは設定済みで表示されません。サービスアドレスを変更する際は、対応する新しいキーも入力してください。"
+  },
+  "对照": {
+    "en-US": "Comparison",
+    "ja-JP": "対照"
+  },
+  "对话确认保存": {
+    "en-US": "Save via conversation confirmation",
+    "ja-JP": "会話確認で保存"
+  },
+  "将 {0} 加入比较": {
+    "en-US": "Add {0} to comparison",
+    "ja-JP": "{0} を比較に追加"
+  },
+  "小计": {
+    "en-US": "Subtotal",
+    "ja-JP": "小計"
+  },
+  "小预算，也出彩": {
+    "en-US": "Small budget, still brilliant",
+    "ja-JP": "小さな予算でも、輝く"
+  },
+  "尚未整理本次需求。你可以继续补充，完整对话会保留。": {
+    "en-US": "This request has not been organized yet. You can keep adding details; the full conversation will be retained.",
+    "ja-JP": "今回の要望はまだ整理されていません。引き続き補足できます。会話全体は保持されます。"
+  },
+  "尚未达到优化标准": {
+    "en-US": "Optimization standard not yet met",
+    "ja-JP": "最適化基準に未達"
+  },
+  "展开完整选购建议": {
+    "en-US": "Expand full shopping advice",
+    "ja-JP": "完全な購入提案を展開"
+  },
+  "展示名称": {
+    "en-US": "Display name",
+    "ja-JP": "表示名"
+  },
+  "展示最近的可见执行步骤与状态，不包含模型隐式推理。": {
+    "en-US": "Show recent visible execution steps and status, excluding the model's implicit reasoning.",
+    "ja-JP": "最近の可視実行ステップとステータスを表示します。モデルの暗黙的な推論は含みません。"
+  },
+  "工作内容": {
+    "en-US": "Work content",
+    "ja-JP": "作業内容"
+  },
+  "工具参数已就绪": {
+    "en-US": "Tool parameters ready",
+    "ja-JP": "ツールパラメータ準備完了"
+  },
+  "工具成功返回": {
+    "en-US": "Tool returned successfully",
+    "ja-JP": "ツールが正常に返却"
+  },
+  "工具执行状态": {
+    "en-US": "Tool execution status",
+    "ja-JP": "ツール実行ステータス"
+  },
+  "工具调用和模型返回的 Think 会逐步出现。旧版会话可能没有这些记录。": {
+    "en-US": "Tool calls and the model's Think appear step by step. Older sessions may not have these records.",
+    "ja-JP": "ツール呼び出しとモデルの Think が順次表示されます。旧バージョンのセッションにはこれらの記録がない場合があります。"
+  },
+  "已中断": {
+    "en-US": "Interrupted",
+    "ja-JP": "中断されました"
+  },
+  "已为你整理好选购建议": {
+    "en-US": "Your shopping advice is ready",
+    "ja-JP": "購入提案をまとめました"
+  },
+  "已从心选收藏移除。": {
+    "en-US": "Removed from favorites.",
+    "ja-JP": "お気に入りから削除しました。"
+  },
+  "已使用（估算）": {
+    "en-US": "Used (estimated)",
+    "ja-JP": "使用済み（推定）"
+  },
+  "已保存下一轮设置": {
+    "en-US": "Next-round settings saved",
+    "ja-JP": "次回設定を保存しました"
+  },
+  "已保存分页或不完整的商品片段，暂时无法组成完整小卡。": {
+    "en-US": "Saved paginated or incomplete product fragments cannot yet form a complete card.",
+    "ja-JP": "ページ分割または不完全な商品断片が保存されており、完全なカードを構成できません。"
+  },
+  "已保存到心选收藏。": {
+    "en-US": "Saved to favorites.",
+    "ja-JP": "お気に入りに保存しました。"
+  },
+  "已保存的 Skill": {
+    "en-US": "Saved Skills",
+    "ja-JP": "保存済みのスキル"
+  },
+  "已保存的偏好": {
+    "en-US": "Saved preferences",
+    "ja-JP": "保存済みの好み"
+  },
+  "已保存，将用于下一次回复。": {
+    "en-US": "Saved and will be used for the next reply.",
+    "ja-JP": "保存しました。次回の返信に使用されます。"
+  },
+  "已保存，当前回复结束后使用新设置。": {
+    "en-US": "Saved; the new settings will apply after the current reply ends.",
+    "ja-JP": "保存しました。現在の返信終了後に新しい設定が適用されます。"
+  },
+  "已停止本次回复。已有内容为你保留，可以继续补充需求。": {
+    "en-US": "This reply has been stopped. Existing content is kept for you; you can continue adding requirements.",
+    "ja-JP": "この返信を停止しました。既存の内容は保持されます。引き続き要望を補足できます。"
+  },
+  "已创建新的执行尝试，旧记录保留。": {
+    "en-US": "A new execution attempt has been created; old records are retained.",
+    "ja-JP": "新しい実行試行を作成しました。旧記録は保持されます。"
+  },
+  "已到期": {
+    "en-US": "Expired",
+    "ja-JP": "期限切れ"
+  },
+  "已加入执行队列。": {
+    "en-US": "Added to the execution queue.",
+    "ja-JP": "実行キューに追加しました。"
+  },
+  "已取消": {
+    "en-US": "Canceled",
+    "ja-JP": "キャンセル済み"
+  },
+  "已启用": {
+    "en-US": "Enabled",
+    "ja-JP": "有効"
+  },
+  "已完成": {
+    "en-US": "Completed",
+    "ja-JP": "完了"
+  },
+  "已归档": {
+    "en-US": "Archived",
+    "ja-JP": "アーカイブ済み"
+  },
+  "已归档，历史执行仍保留。": {
+    "en-US": "Archived; execution history is still retained.",
+    "ja-JP": "アーカイブ済み。実行履歴は引き続き保持されます。"
+  },
+  "已恢复服务端选购记录": {
+    "en-US": "Server-side shopping records restored",
+    "ja-JP": "サーバー側の買い物記録を復元しました"
+  },
+  "已恢复本机选购记录": {
+    "en-US": "Local shopping records restored",
+    "ja-JP": "本機の買い物記録を復元しました"
+  },
+  "已批准": {
+    "en-US": "Approved",
+    "ja-JP": "承認済み"
+  },
+  "已按当前所选规格更新比较信息。 ": {
+    "en-US": "Comparison info updated based on the currently selected variant. ",
+    "ja-JP": "現在選択中の仕様に基づいて比較情報を更新しました。 "
+  },
+  "已放弃本次操作": {
+    "en-US": "This operation was abandoned",
+    "ja-JP": "今回の操作を中止しました"
+  },
+  "已断开订阅": {
+    "en-US": "Unsubscribed",
+    "ja-JP": "購読を解除しました"
+  },
+  "已是新会话默认": {
+    "en-US": "Already the default for new sessions",
+    "ja-JP": "すでに新規セッションのデフォルトです"
+  },
+  "已暂停": {
+    "en-US": "Paused",
+    "ja-JP": "一時停止中"
+  },
+  "已更换规格，到手价需重新查询。": {
+    "en-US": "Variant changed; the final price must be re-queried.",
+    "ja-JP": "仕様を変更したため、最終価格の再確認が必要です。"
+  },
+  "已有待确认的取消申请，请在取消确认卡中处理。": {
+    "en-US": "A cancellation request is already pending; please handle it in the cancellation confirmation card.",
+    "ja-JP": "確認待ちのキャンセル申請があります。キャンセル確認カードで処理してください。"
+  },
+  "已有正式报告，请选择同口径候选进行验收": {
+    "en-US": "A formal report already exists; please select candidates with the same criteria for acceptance",
+    "ja-JP": "正式なレポートが既にあります。同じ基準の候補を選択して検収してください"
+  },
+  "已校验，使用已有模型。": {
+    "en-US": "Validated; using the existing model.",
+    "ja-JP": "検証済み。既存のモデルを使用します。"
+  },
+  "已确认": {
+    "en-US": "Confirmed",
+    "ja-JP": "確認済み"
+  },
+  "已补充：{0}": {
+    "en-US": "Added: {0}",
+    "ja-JP": "追記しました：{0}"
+  },
+  "已记录执行状态，此步骤没有额外的可展示详情。": {
+    "en-US": "Execution status recorded; no additional details are available for this step.",
+    "ja-JP": "実行状態を記録しました。このステップには追加で表示できる詳細はありません。"
+  },
+  "已设为新会话默认，已有会话保持原选择。": {
+    "en-US": "Set as the default for new sessions; existing sessions keep their original selection.",
+    "ja-JP": "新規セッションのデフォルトに設定しました。既存のセッションは元の選択を維持します。"
+  },
+  "已读取选购方案": {
+    "en-US": "Shopping plan loaded",
+    "ja-JP": "買い物プランを読み込みました"
+  },
+  "已选": {
+    "en-US": "Selected",
+    "ja-JP": "選択済み"
+  },
+  "已选择": {
+    "en-US": "Selected",
+    "ja-JP": "選択済み"
+  },
+  "已选择 · ": {
+    "en-US": "Selected · ",
+    "ja-JP": "選択済み · "
+  },
+  "库存以服务端生成确认单和提交时的检查为准。": {
+    "en-US": "Stock is subject to the server-generated confirmation and the check at submission.",
+    "ja-JP": "在庫はサーバー生成の確認書と送信時のチェックに基づきます。"
+  },
+  "建议已生成": {
+    "en-US": "Suggestion generated",
+    "ja-JP": "提案を生成しました"
+  },
+  "开关 · enable_thinking": {
+    "en-US": "Toggle · enable_thinking",
+    "ja-JP": "トグル · enable_thinking"
+  },
+  "开启": {
+    "en-US": "On",
+    "ja-JP": "オン"
+  },
+  "开启氛围背景": {
+    "en-US": "Enable ambient background",
+    "ja-JP": "アンビエント背景を有効にする"
+  },
+  "开始": {
+    "en-US": "Start",
+    "ja-JP": "開始"
+  },
+  "开始一次选购后，可以在这里快速找回。": {
+    "en-US": "After you start a shopping session, you can quickly find it here.",
+    "ja-JP": "買い物を開始すると、ここからすぐに再開できます。"
+  },
+  "开始一次选购后，执行记录会出现在这里。": {
+    "en-US": "After you start a shopping session, execution records will appear here.",
+    "ja-JP": "買い物を開始すると、実行記録がここに表示されます。"
+  },
+  "开始对话后，将显示已保存上下文的估算占用。": {
+    "en-US": "Once the conversation starts, the estimated usage of saved context will be shown.",
+    "ja-JP": "会話を開始すると、保存されたコンテキストの推定使用量が表示されます。"
+  },
+  "开始执行": {
+    "en-US": "Start execution",
+    "ja-JP": "実行を開始"
+  },
+  "开始本轮选购": {
+    "en-US": "Start this shopping round",
+    "ja-JP": "今回の買い物を開始"
+  },
+  "开始比较": {
+    "en-US": "Start comparison",
+    "ja-JP": "比較を開始"
+  },
+  "强度 · reasoning_effort": {
+    "en-US": "Strength · reasoning_effort",
+    "ja-JP": "強度 · reasoning_effort"
+  },
+  "归档": {
+    "en-US": "Archive",
+    "ja-JP": "アーカイブ"
+  },
+  "归档 ": {
+    "en-US": "Archive ",
+    "ja-JP": "アーカイブ "
+  },
+  "当前": {
+    "en-US": "Current",
+    "ja-JP": "現在"
+  },
+  "当前为本地演示订单，尚未接入支付和物流；金额不代表实际支付。": {
+    "en-US": "This is currently a local demo order, not yet connected to payment or logistics; the amount does not represent an actual payment.",
+    "ja-JP": "現在はローカルのデモ注文であり、決済や物流には未接続です。金額は実際の支払いを表すものではありません。"
+  },
+  "当前回复": {
+    "en-US": "Current reply",
+    "ja-JP": "現在の返信"
+  },
+  "当前回复完成后即可整理。": {
+    "en-US": "You can organize once the current reply is complete.",
+    "ja-JP": "現在の返信が完了すると整理できます。"
+  },
+  "当前基线与候选待测": {
+    "en-US": "Current baseline and candidates pending test",
+    "ja-JP": "現在のベースラインとテスト待ちの候補"
+  },
+  "当前模型正式基线": {
+    "en-US": "Current model formal baseline",
+    "ja-JP": "現在のモデル正式ベースライン"
+  },
+  "当前目录未确认可配送到该地区，请重新查询。": {
+    "en-US": "The current catalog is not confirmed to ship to this region; please search again.",
+    "ja-JP": "現在のカタログはこの地域への配送が確認されていません。再検索してください。"
+  },
+  "当前筛选没有匹配样本。": {
+    "en-US": "No samples match the current filter.",
+    "ja-JP": "現在のフィルターに一致するサンプルはありません。"
+  },
+  "当前网关尚未验证大窗口容量。下面的“本次上限”只控制本地预算，默认 ": {
+    "en-US": "The current gateway has not yet verified large-window capacity. The \"this session limit\" below only controls the local budget; default ",
+    "ja-JP": "現在のゲートウェイは大規模ウィンドウの容量を未検証です。以下の「今回の上限」はローカル予算のみを制御します。デフォルト "
+  },
+  "当前规格商品价": {
+    "en-US": "Product price for the current variant",
+    "ja-JP": "現在の仕様の商品価格"
+  },
+  "当前连接不支持持久恢复，且缺少终态事件": {
+    "en-US": "The current connection does not support persistent recovery and is missing terminal events",
+    "ja-JP": "現在の接続は永続的な復元に対応しておらず、終端イベントも欠落しています"
+  },
+  "当前选购正在处理中，完成或停止后可打开其他记录。": {
+    "en-US": "The current shopping session is in progress; you can open other records after it completes or stops.",
+    "ja-JP": "現在の買い物は処理中です。完了または停止後に他の記録を開けます。"
+  },
+  "当前页面暂不支持此确认流程，请重新描述需求。": {
+    "en-US": "This confirmation flow is not supported on the current page; please describe your request again.",
+    "ja-JP": "現在のページではこの確認フローに対応していません。要件をもう一度説明してください。"
+  },
+  "当天结束后不再启动新执行。": {
+    "en-US": "No new executions will start after the end of the day.",
+    "ja-JP": "当日終了後は新しい実行を開始しません。"
+  },
+  "当时商品价 · 图片仅示意 · 交易前需重新核验": {
+    "en-US": "Price at the time · Images for illustration only · Re-verify before purchase",
+    "ja-JP": "当時の商品価格・画像はイメージです・取引前に再確認が必要"
+  },
+  "当时商品价：": {
+    "en-US": "Price at the time:",
+    "ja-JP": "当時の商品価格："
+  },
+  "当时报价：": {
+    "en-US": "Quote at the time:",
+    "ja-JP": "当時の見積もり："
+  },
+  "待开始": {
+    "en-US": "Not started",
+    "ja-JP": "開始待ち"
+  },
+  "待测": {
+    "en-US": "Pending test",
+    "ja-JP": "テスト待ち"
+  },
+  "待测 · 数据与标准冻结不代表模型检索已通过": {
+    "en-US": "Pending test · Frozen data and standards do not mean model retrieval has passed",
+    "ja-JP": "テスト待ち・データと基準の凍結はモデル検索の合格を意味しません"
+  },
+  "待确认": {
+    "en-US": "Pending confirmation",
+    "ja-JP": "確認待ち"
+  },
+  "待确认操作": {
+    "en-US": "Operation pending confirmation",
+    "ja-JP": "確認待ちの操作"
+  },
+  "待确认操作继续使用原模型，新设置在本轮结束后生效。": {
+    "en-US": "Operation pending confirmation; the original model stays in use and new settings take effect after this round ends.",
+    "ja-JP": "確認待ちの操作です。元のモデルを引き続き使用し、新しい設定は今回のラウンド終了後に有効になります。"
+  },
+  "待确认的长期记忆操作": {
+    "en-US": "Long-term memory operation pending confirmation",
+    "ja-JP": "確認待ちの長期的な記憶操作"
+  },
+  "待记录": {
+    "en-US": "Pending record",
+    "ja-JP": "記録待ち"
+  },
+  "待选择": {
+    "en-US": "Pending selection",
+    "ja-JP": "選択待ち"
+  },
+  "待验收": {
+    "en-US": "Pending acceptance",
+    "ja-JP": "検収待ち"
+  },
+  "心选收藏": {
+    "en-US": "Favorites",
+    "ja-JP": "お気に入り"
+  },
+  "思考": {
+    "en-US": "Thinking",
+    "ja-JP": "思考"
+  },
+  "思考与工具执行过程": {
+    "en-US": "Thinking and tool execution process",
+    "ja-JP": "思考とツール実行の過程"
+  },
+  "思考支持": {
+    "en-US": "Thinking support",
+    "ja-JP": "思考サポート"
+  },
+  "思考设置": {
+    "en-US": "Thinking settings",
+    "ja-JP": "思考設定"
+  },
+  "思考过程": {
+    "en-US": "Thinking process",
+    "ja-JP": "思考プロセス"
+  },
+  "恢复": {
+    "en-US": "Restore",
+    "ja-JP": "復元"
+  },
+  "恢复本轮": {
+    "en-US": "Restore this round",
+    "ja-JP": "今回のラウンドを復元"
+  },
+  "恢复流缺少持久事件游标": {
+    "en-US": "Restore stream is missing a persistent event cursor",
+    "ja-JP": "復元ストリームに永続イベントカーソルがありません"
+  },
+  "想买日常通勤耳机，帮我理一理选购思路。": {
+    "en-US": "I want to buy everyday commuter earphones; help me sort out how to choose.",
+    "ja-JP": "普段の通勤用イヤホンを買いたいので、選び方の考えを整理してください。"
+  },
+  "意向单号": {
+    "en-US": "Order intent number",
+    "ja-JP": "意向注文番号"
+  },
+  "意向单已创建": {
+    "en-US": "Order intent created",
+    "ja-JP": "意向注文を作成しました"
+  },
+  "意向单已取消": {
+    "en-US": "Order intent canceled",
+    "ja-JP": "意向注文をキャンセルしました"
+  },
+  "我想先逛逛旅行装备。请用“旅行装备”这个关键词一次搜索，返回 12 件候选，暂不扩展关键词或按子品类拆分搜索。收货国家中国，单件商品价格不超过 500 元人民币，运费和税费另列。先展示这批商品卡，再简要说明用途；符合条件不足 12 件时请如实说明。": {
+    "en-US": "I want to browse travel gear first. Search once with the keyword \"travel gear\" and return 12 candidates; do not expand keywords or split the search by subcategory for now. Shipping country is China, each item must cost no more than 500 CNY, and shipping and taxes should be listed separately. Show these product cards first, then briefly explain their uses; if fewer than 12 items qualify, please say so honestly.",
+    "ja-JP": "まず旅行装備を見て回りたいです。「旅行装備」というキーワードで一度だけ検索し、候補を12件返してください。今はキーワードを広げたり、サブカテゴリ別に検索を分割したりしないでください。配送先の国は中国、1点あたりの商品価格は500元人民元以下とし、送料と税金は別に記載してください。まずこの商品カードを表示し、その後で用途を簡単に説明してください。条件を満たす商品が12件に満たない場合は、その旨を正直に説明してください。"
+  },
+  "我的 Skill": {
+    "en-US": "My Skills",
+    "ja-JP": "マイスキル"
+  },
+  "我的方法库 ": {
+    "en-US": "My method library ",
+    "ja-JP": "マイ方法ライブラリ "
+  },
+  "我的订单": {
+    "en-US": "My orders",
+    "ja-JP": "マイ注文"
+  },
+  "我的记忆": {
+    "en-US": "My memory",
+    "ja-JP": "マイ記憶"
+  },
+  "或者，从一份选购方案开始": {
+    "en-US": "Or start with a shopping plan",
+    "ja-JP": "または、購入プランから始める"
+  },
+  "所选方案信息无效，请刷新方案后重新选择。": {
+    "en-US": "The selected plan information is invalid. Please refresh the plans and select again.",
+    "ja-JP": "選択したプラン情報が無効です。プランを更新してから選び直してください。"
+  },
+  "手动填写模型": {
+    "en-US": "Enter model manually",
+    "ja-JP": "モデルを手動入力"
+  },
+  "打开": {
+    "en-US": "Open",
+    "ja-JP": "開く"
+  },
+  "打开导航": {
+    "en-US": "Open navigation",
+    "ja-JP": "ナビゲーションを開く"
+  },
+  "打开结果": {
+    "en-US": "Open result",
+    "ja-JP": "結果を開く"
+  },
+  "打开结果会话": {
+    "en-US": "Open result session",
+    "ja-JP": "結果セッションを開く"
+  },
+  "执行中": {
+    "en-US": "Running",
+    "ja-JP": "実行中"
+  },
+  "执行工具": {
+    "en-US": "Run tool",
+    "ja-JP": "ツールを実行"
+  },
+  "执行日期时间": {
+    "en-US": "Execution date and time",
+    "ja-JP": "実行日時"
+  },
+  "执行时间": {
+    "en-US": "Execution time",
+    "ja-JP": "実行時間"
+  },
+  "执行模型": {
+    "en-US": "Execution model",
+    "ja-JP": "実行モデル"
+  },
+  "执行记录": {
+    "en-US": "Execution log",
+    "ja-JP": "実行記録"
+  },
+  "执行过程会保存在这里": {
+    "en-US": "The execution process will be saved here",
+    "ja-JP": "実行過程はここに保存されます"
+  },
+  "批准后执行本次操作。保存时会提炼稳定购物偏好；拒绝不会修改记忆。": {
+    "en-US": "Execute this operation after approval. Stable shopping preferences will be extracted on save; rejecting will not modify memory.",
+    "ja-JP": "承認後にこの操作を実行します。保存時に安定した買い物の好みを抽出します。拒否しても記憶は変更されません。"
+  },
+  "批准本次操作": {
+    "en-US": "Approve this operation",
+    "ja-JP": "この操作を承認"
+  },
+  "批准这次长期记忆操作": {
+    "en-US": "Approve this long-term memory operation",
+    "ja-JP": "この長期的な記憶操作を承認"
+  },
+  "找好物，也找到自己的偏好。": {
+    "en-US": "Find great products, and find your own preferences.",
+    "ja-JP": "良いものを探し、自分の好みも見つけよう。"
+  },
+  "把例行选购，交给 OrbitBuy。": {
+    "en-US": "Leave routine shopping to OrbitBuy.",
+    "ja-JP": "日常の買い物はOrbitBuyにお任せ。"
+  },
+  "报价规格": {
+    "en-US": "Quote specifications",
+    "ja-JP": "見積もり仕様"
+  },
+  "报告不可比": {
+    "en-US": "Reports not comparable",
+    "ja-JP": "レポートは比較できません"
+  },
+  "报告尚未确认": {
+    "en-US": "Report not yet confirmed",
+    "ja-JP": "レポートは未確認です"
+  },
+  "报告编号": {
+    "en-US": "Report number",
+    "ja-JP": "レポート番号"
+  },
+  "拒绝": {
+    "en-US": "Reject",
+    "ja-JP": "拒否"
+  },
+  "拒绝这次长期记忆操作": {
+    "en-US": "Reject this long-term memory operation",
+    "ja-JP": "この長期的な記憶操作を拒否"
+  },
+  "指标定义与验收标准": {
+    "en-US": "Metric definitions and acceptance criteria",
+    "ja-JP": "指標定義と受け入れ基準"
+  },
+  "按 NDCG 差值从低到高排列，先查看退化样本。": {
+    "en-US": "Sort by NDCG delta from low to high; review degraded samples first.",
+    "ja-JP": "NDCG差分の低い順に並べ、退化サンプルから確認する。"
+  },
+  "按你的节奏，继续选购": {
+    "en-US": "Continue shopping at your own pace",
+    "ja-JP": "自分のペースで買い物を続ける"
+  },
+  "按已保存条件继续选购": {
+    "en-US": "Continue shopping with saved criteria",
+    "ja-JP": "保存した条件で買い物を続ける"
+  },
+  "按标题或会话 ID 查找已加载记录": {
+    "en-US": "Find loaded records by title or session ID",
+    "ja-JP": "タイトルまたはセッションIDで読み込み済みレコードを検索"
+  },
+  "按版本化标准验收": {
+    "en-US": "Accept against versioned standards",
+    "ja-JP": "バージョン管理された基準で受け入れる"
+  },
+  "挑一副适合通勤的耳机": {
+    "en-US": "Pick headphones suited for commuting",
+    "ja-JP": "通勤に合うヘッドホンを選ぶ"
+  },
+  "排序与召回": {
+    "en-US": "Ranking and recall",
+    "ja-JP": "ランキングとリコール"
+  },
+  "排序提升": {
+    "en-US": "Ranking improvement",
+    "ja-JP": "ランキング改善"
+  },
+  "排序退化": {
+    "en-US": "Ranking degradation",
+    "ja-JP": "ランキング退化"
+  },
+  "排队中": {
+    "en-US": "Queued",
+    "ja-JP": "待機中"
+  },
+  "探索世界好物": {
+    "en-US": "Explore great finds from around the world",
+    "ja-JP": "世界の良いものを探す"
+  },
+  "接下来执行": {
+    "en-US": "Next, execute",
+    "ja-JP": "次に実行"
+  },
+  "接入你自己的模型，让它帮你选购。": {
+    "en-US": "Connect your own model and let it help you shop.",
+    "ja-JP": "自分のモデルを接続して、買い物を手伝ってもらいましょう。"
+  },
+  "描述你的需求，或输入 / 选择选购方案": {
+    "en-US": "Describe your needs, or type / to choose a shopping plan",
+    "ja-JP": "ニーズを説明するか、/ を入力して買い物プランを選択"
+  },
+  "提交答案并继续": {
+    "en-US": "Submit answer and continue",
+    "ja-JP": "回答を送信して続行"
+  },
+  "搜索": {
+    "en-US": "Search",
+    "ja-JP": "検索"
+  },
+  "搜索全部模型": {
+    "en-US": "Search all models",
+    "ja-JP": "すべてのモデルを検索"
+  },
+  "搜索模型": {
+    "en-US": "Search models",
+    "ja-JP": "モデルを検索"
+  },
+  "搜索结果": {
+    "en-US": "Search results",
+    "ja-JP": "検索結果"
+  },
+  "搜索选购标题或会话 ID": {
+    "en-US": "Search shopping titles or session IDs",
+    "ja-JP": "買い物タイトルまたはセッションIDを検索"
+  },
+  "搜索选购标题或会话 ID…": {
+    "en-US": "Search shopping titles or session IDs…",
+    "ja-JP": "買い物タイトルまたはセッションIDを検索…"
+  },
+  "搜索选购记录": {
+    "en-US": "Search shopping records",
+    "ja-JP": "買い物履歴を検索"
+  },
+  "摘要暂时无法读取": {
+    "en-US": "Summary is temporarily unavailable",
+    "ja-JP": "概要は一時的に読み取れません"
+  },
+  "支持 Markdown。写清步骤、约束和期望的回答形式，用到时才读取全文。": {
+    "en-US": "Markdown supported. Write clear steps, constraints, and expected answer format; read the full text only when needed.",
+    "ja-JP": "Markdown対応。手順、制約、期待する回答形式を明確に書き、必要なときだけ全文を読み取ります。"
+  },
+  "收件人": {
+    "en-US": "Recipient",
+    "ja-JP": "受取人"
+  },
+  "收件人的姓名": {
+    "en-US": "Recipient's name",
+    "ja-JP": "受取人の氏名"
+  },
+  "收到工具结果": {
+    "en-US": "Tool result received",
+    "ja-JP": "ツール結果を受信"
+  },
+  "收藏": {
+    "en-US": "Favorite",
+    "ja-JP": "お気に入り"
+  },
+  "收藏时商品价": {
+    "en-US": "Price when favorited",
+    "ja-JP": "お気に入り登録時の価格"
+  },
+  "收藏时的商品信息 · 下单前请重新核验价格与库存": {
+    "en-US": "Product info at time of favoriting · Recheck price and stock before ordering",
+    "ja-JP": "お気に入り登録時の商品情報 · 注文前に価格と在庫を再確認してください"
+  },
+  "收藏暂时读取失败，请稍后刷新；数据库中的收藏仍保留。": {
+    "en-US": "Favorites temporarily failed to load; refresh later. Favorites in the database are retained.",
+    "ja-JP": "お気に入りの読み込みに一時的に失敗しました。後で更新してください。データベース内のお気に入りは保持されています。"
+  },
+  "收藏未能保存，请重试。": {
+    "en-US": "Favorite could not be saved. Please try again.",
+    "ja-JP": "お気に入りを保存できませんでした。もう一度お試しください。"
+  },
+  "收货信息": {
+    "en-US": "Shipping information",
+    "ja-JP": "配送情報"
+  },
+  "收货信息：": {
+    "en-US": "Shipping information:",
+    "ja-JP": "配送情報："
+  },
+  "收起": {
+    "en-US": "Collapse",
+    "ja-JP": "折りたたむ"
+  },
+  "收起完整选购建议": {
+    "en-US": "Collapse full shopping suggestions",
+    "ja-JP": "完全な買い物提案を折りたたむ"
+  },
+  "放在一起，选择更清楚。": {
+    "en-US": "Side by side, choices are clearer.",
+    "ja-JP": "並べて見ると、選択がより明確になります。"
+  },
+  "数据划分": {
+    "en-US": "Data split",
+    "ja-JP": "データ分割"
+  },
+  "数据来源与可比性指纹": {
+    "en-US": "Data source and comparability fingerprint",
+    "ja-JP": "データソースと比較可能性フィンガープリント"
+  },
+  "整理上下文": {
+    "en-US": "Organize context",
+    "ja-JP": "コンテキストを整理"
+  },
+  "整理已结束": {
+    "en-US": "Organizing finished",
+    "ja-JP": "整理が完了しました"
+  },
+  "新建 Skill": {
+    "en-US": "New Skill",
+    "ja-JP": "新しいスキル"
+  },
+  "新的选购": {
+    "en-US": "New shopping session",
+    "ja-JP": "新しい買い物"
+  },
+  "方案已读取": {
+    "en-US": "Plan loaded",
+    "ja-JP": "プランを読み込みました"
+  },
+  "方案读取失败": {
+    "en-US": "Failed to load plan",
+    "ja-JP": "プランの読み込みに失敗しました"
+  },
+  "方案读取未完成": {
+    "en-US": "Plan loading incomplete",
+    "ja-JP": "プランの読み込みが未完了です"
+  },
+  "方案读取未完成：{0}{1}": {
+    "en-US": "Plan loading incomplete: {0}{1}",
+    "ja-JP": "プランの読み込みが未完了です：{0}{1}"
+  },
+  "方案读取状态": {
+    "en-US": "Plan loading status",
+    "ja-JP": "プラン読み込み状態"
+  },
+  "方法与步骤": {
+    "en-US": "Method and steps",
+    "ja-JP": "方法と手順"
+  },
+  "旅行好物，一起挑": {
+    "en-US": "Pick travel essentials together",
+    "ja-JP": "旅行の良いものを一緒に選ぶ"
+  },
+  "无 Think 记录": {
+    "en-US": "No Think records",
+    "ja-JP": "Think記録なし"
+  },
+  "无可选窗口": {
+    "en-US": "No selectable windows",
+    "ja-JP": "選択可能なウィンドウがありません"
+  },
+  "无法访问个人资料，请检查当前登录身份。": {
+    "en-US": "Unable to access profile. Please check the current login identity.",
+    "ja-JP": "プロフィールにアクセスできません。現在のログイン認証情報を確認してください。"
+  },
+  "无结果保护门槛": {
+    "en-US": "No-result protection threshold",
+    "ja-JP": "無結果保護しきい値"
+  },
+  "无结果准确率": {
+    "en-US": "No-result accuracy",
+    "ja-JP": "無結果精度"
+  },
+  "日常好声音": {
+    "en-US": "Everyday good voice",
+    "ja-JP": "日常のいい声"
+  },
+  "日本語": {
+    "en-US": "Japanese",
+    "ja-JP": "日本語"
+  },
+  "时区": {
+    "en-US": "Time zone",
+    "ja-JP": "タイムゾーン"
+  },
+  "时间规则有误": {
+    "en-US": "Time rule is incorrect",
+    "ja-JP": "時間ルールに誤りがあります"
+  },
+  "星期": {
+    "en-US": "Day of week",
+    "ja-JP": "曜日"
+  },
+  "显示": {
+    "en-US": "Show",
+    "ja-JP": "表示"
+  },
+  "显示 API Key": {
+    "en-US": "Show API Key",
+    "ja-JP": "APIキーを表示"
+  },
+  "显示状态": {
+    "en-US": "Show status",
+    "ja-JP": "ステータスを表示"
+  },
+  "暂不下单": {
+    "en-US": "Not ordering for now",
+    "ja-JP": "今は注文しない"
+  },
+  "暂不可用": {
+    "en-US": "Temporarily unavailable",
+    "ja-JP": "一時的に利用できません"
+  },
+  "暂不可用，请检查连接": {
+    "en-US": "Temporarily unavailable. Please check your connection.",
+    "ja-JP": "一時的に利用できません。接続を確認してください。"
+  },
+  "暂不支持这份选购表单，请通过对话补充需求。": {
+    "en-US": "This shopping form is not supported yet. Please add your requirements via chat.",
+    "ja-JP": "この商品選びフォームはまだサポートされていません。チャットで要件を補足してください。"
+  },
+  "暂停": {
+    "en-US": "Pause",
+    "ja-JP": "一時停止"
+  },
+  "暂无逐查询结果；完成评测后展示差异。": {
+    "en-US": "No per-query results yet; differences will be shown after evaluation.",
+    "ja-JP": "クエリごとの結果はまだありません。評価完了後に差異を表示します。"
+  },
+  "暂时无法估算用量，原对话和整理记录仍保留。": {
+    "en-US": "Unable to estimate usage for now. The original conversation and notes are still retained.",
+    "ja-JP": "現時点では使用量を見積もれません。元の会話と整理記録は引き続き保持されています。"
+  },
+  "暂时无法恢复本轮：{0}": {
+    "en-US": "Unable to restore this round for now: {0}",
+    "ja-JP": "このラウンドを一時的に復元できません：{0}"
+  },
+  "暂时无法读取检索评测，请刷新重试。": {
+    "en-US": "Unable to load retrieval evaluation for now. Please refresh and try again.",
+    "ja-JP": "検索評価を一時的に読み込めません。更新して再試行してください。"
+  },
+  "暂时无法读取确认状态，请刷新重试。": {
+    "en-US": "Unable to load confirmation status for now. Please refresh and try again.",
+    "ja-JP": "確認ステータスを一時的に読み込めません。更新して再試行してください。"
+  },
+  "暂时无法读取选购方案，请检查访问身份后重试。": {
+    "en-US": "Unable to load the shopping plan for now. Please check your access identity and try again.",
+    "ja-JP": "商品選びプランを一時的に読み込めません。アクセス認証情報を確認して再試行してください。"
+  },
+  "暂时无法读取选购记录，请稍后重试。": {
+    "en-US": "Unable to load shopping records for now. Please try again later.",
+    "ja-JP": "商品選び記録を一時的に読み込めません。しばらくしてから再試行してください。"
+  },
+  "暂时未能提交，请重试": {
+    "en-US": "Submission failed for now. Please try again.",
+    "ja-JP": "一時的に送信できませんでした。再試行してください。"
+  },
+  "暂时没有可展示的评测报告。请重新读取。": {
+    "en-US": "No evaluation report to display yet. Please reload.",
+    "ja-JP": "表示できる評価レポートはまだありません。再読み込みしてください。"
+  },
+  "暂时没有这类订单": {
+    "en-US": "No orders of this type for now",
+    "ja-JP": "この種類の注文はまだありません"
+  },
+  "暂时没能完成这次选购": {
+    "en-US": "This shopping session could not be completed for now",
+    "ja-JP": "今回の商品選びを一時的に完了できませんでした"
+  },
+  "暂时没能完成，请重试": {
+    "en-US": "Could not complete for now. Please try again.",
+    "ja-JP": "一時的に完了できませんでした。再試行してください。"
+  },
+  "暂未填写：{0}": {
+    "en-US": "Not filled in yet: {0}",
+    "ja-JP": "未入力：{0}"
+  },
+  "暂未提供商品图片": {
+    "en-US": "No product image provided yet",
+    "ja-JP": "商品画像はまだ提供されていません"
+  },
+  "更新商品与进度": {
+    "en-US": "Update products and progress",
+    "ja-JP": "商品と進捗を更新"
+  },
+  "更新选购状态": {
+    "en-US": "Update shopping status",
+    "ja-JP": "商品選びステータスを更新"
+  },
+  "最初需求：": {
+    "en-US": "Initial requirements:",
+    "ja-JP": "最初の要件："
+  },
+  "最大": {
+    "en-US": "Max",
+    "ja-JP": "最大"
+  },
+  "最小": {
+    "en-US": "Min",
+    "ja-JP": "最小"
+  },
+  "最近一次整理的记录，后续补充以对话为准。": {
+    "en-US": "Notes from the most recent compilation; later additions follow the conversation.",
+    "ja-JP": "直近の整理記録です。以降の補足は会話を優先します。"
+  },
+  "最近补充：": {
+    "en-US": "Latest addition:",
+    "ja-JP": "最近の補足："
+  },
+  "最近选购": {
+    "en-US": "Recent shopping",
+    "ja-JP": "最近の買い物"
+  },
+  "最高": {
+    "en-US": "Highest",
+    "ja-JP": "最高"
+  },
+  "有效期内没有下一次执行，请调整计划。": {
+    "en-US": "No next run within the validity period. Please adjust the schedule.",
+    "ja-JP": "有効期間内に次回実行がありません。計画を調整してください。"
+  },
+  "有效期需重新核验": {
+    "en-US": "Validity period needs re-verification",
+    "ja-JP": "有効期間の再確認が必要です"
+  },
+  "有效至 {0}": {
+    "en-US": "Valid until {0}",
+    "ja-JP": "有効期限 {0}"
+  },
+  "服务地址 ": {
+    "en-US": "Service address ",
+    "ja-JP": "サービスアドレス "
+  },
+  "服务地址或供应商已改变，请填写对应的新 API Key，原密钥不会发送到新的服务地址。": {
+    "en-US": "The service address or provider has changed. Please enter the corresponding new API Key; the original key will not be sent to the new service address.",
+    "ja-JP": "サービスアドレスまたはプロバイダーが変更されました。対応する新しいAPIキーを入力してください。元のキーは新しいサービスアドレスに送信されません。"
+  },
+  "服务暂时不可用，请稍后重试。输入已保留。": {
+    "en-US": "Service temporarily unavailable. Please try again later. Your input has been retained.",
+    "ja-JP": "サービスは一時的に利用できません。しばらくしてから再試行してください。入力は保持されています。"
+  },
+  "服务端历史暂不可用，当前显示本机缓存。": {
+    "en-US": "Server history is temporarily unavailable; showing local cache.",
+    "ja-JP": "サーバー履歴は一時的に利用できません。ローカルキャッシュを表示しています。"
+  },
+  "服务端已记录停止请求，收尾仍在进行。可恢复本轮查询最新状态。": {
+    "en-US": "The server has recorded the stop request; wrap-up is still in progress. You can restore this round to check the latest status.",
+    "ja-JP": "サーバーは停止リクエストを記録しました。終了処理はまだ進行中です。このラウンドを復元して最新のステータスを確認できます。"
+  },
+  "服务端已读取指定版本": {
+    "en-US": "The server has loaded the specified version",
+    "ja-JP": "サーバーが指定バージョンを読み込みました"
+  },
+  "服务端记录格式无效": {
+    "en-US": "Invalid server record format",
+    "ja-JP": "サーバー記録の形式が無効です"
+  },
+  "服务端读取状态": {
+    "en-US": "Server read status",
+    "ja-JP": "サーバー読み込みステータス"
+  },
+  "服务端运行记录与当前会话不一致": {
+    "en-US": "Server run record does not match the current session",
+    "ja-JP": "サーバー実行記録が現在のセッションと一致しません"
+  },
+  "服务返回的需求无效，请刷新": {
+    "en-US": "The requirements returned by the service are invalid. Please refresh.",
+    "ja-JP": "サービスから返された要件が無効です。更新してください。"
+  },
+  "未填写": {
+    "en-US": "Not filled in",
+    "ja-JP": "未入力"
+  },
+  "未完成": {
+    "en-US": "Incomplete",
+    "ja-JP": "未完了"
+  },
+  "未提供": {
+    "en-US": "Not provided",
+    "ja-JP": "未提供"
+  },
+  "未收到实际 usage，不能按 0 计算。": {
+    "en-US": "Actual usage was not received; it cannot be counted as 0.",
+    "ja-JP": "実際のusageを受信していないため、0として計算できません。"
+  },
+  "未知": {
+    "en-US": "Unknown",
+    "ja-JP": "不明"
+  },
+  "未能保存或读取，请刷新后重试。输入已保留。": {
+    "en-US": "Could not save or read. Please refresh and try again. Your input has been preserved.",
+    "ja-JP": "保存または読み取りに失敗しました。更新して再試行してください。入力は保持されています。"
+  },
+  "未能保存，请重试。你的输入已保留。": {
+    "en-US": "Could not save. Please try again. Your input has been preserved.",
+    "ja-JP": "保存に失敗しました。再試行してください。入力は保持されています。"
+  },
+  "未能整理，原记录保留": {
+    "en-US": "Could not organize; the original record was preserved",
+    "ja-JP": "整理できませんでした。元の記録は保持されています"
+  },
+  "未能确认提交结果，请刷新确认记录后重试。": {
+    "en-US": "Could not confirm the submission result. Please refresh to check the record and try again.",
+    "ja-JP": "送信結果を確認できませんでした。更新して記録を確認してから再試行してください。"
+  },
+  "未达标": {
+    "en-US": "Below target",
+    "ja-JP": "未達"
+  },
+  "本次上下文上限": {
+    "en-US": "Context limit for this session",
+    "ja-JP": "今回のコンテキスト上限"
+  },
+  "本次可比报告达到全部门槛。": {
+    "en-US": "This comparable report meets all thresholds.",
+    "ja-JP": "今回の比較可能なレポートはすべての基準を満たしています。"
+  },
+  "本次对话的工作空间": {
+    "en-US": "Workspace for this conversation",
+    "ja-JP": "今回の会話のワークスペース"
+  },
+  "本次检索没有返回商品。": {
+    "en-US": "This search returned no products.",
+    "ja-JP": "今回の検索では商品が返されませんでした。"
+  },
+  "本次确认已过期，请重新生成确认单。": {
+    "en-US": "This confirmation has expired. Please regenerate the confirmation.",
+    "ja-JP": "今回の確認は期限切れです。確認書を再生成してください。"
+  },
+  "本次选购摘要": {
+    "en-US": "Summary of this selection",
+    "ja-JP": "今回の選択の概要"
+  },
+  "本次选购条件": {
+    "en-US": "Conditions for this selection",
+    "ja-JP": "今回の選択条件"
+  },
+  "本段没有可显示的思考内容。": {
+    "en-US": "No thinking content to display for this section.",
+    "ja-JP": "このセクションに表示できる思考内容はありません。"
+  },
+  "本轮已停止，可继续补充需求": {
+    "en-US": "This round has been stopped. You can continue adding requirements.",
+    "ja-JP": "このラウンドは停止しました。要件を追加して続行できます。"
+  },
+  "本轮已停止，尚未收到商品结果。调整需求后可以重新开始。": {
+    "en-US": "This round has been stopped and no product results were received. Adjust your requirements to start again.",
+    "ja-JP": "このラウンドは停止し、商品結果はまだ受信していません。要件を調整して再開できます。"
+  },
+  "本轮已完成": {
+    "en-US": "This round is complete",
+    "ja-JP": "このラウンドは完了しました"
+  },
+  "本轮已结束，未收到读取成功结果": {
+    "en-US": "This round has ended without a successful read result",
+    "ja-JP": "このラウンドは終了しましたが、読み取り成功の結果は受信していません"
+  },
+  "本轮未保存过程记录": {
+    "en-US": "No process record was saved for this round",
+    "ja-JP": "このラウンドのプロセス記録は保存されていません"
+  },
+  "本轮没有可展示的思考记录。可在模型管理中查看思考设置。": {
+    "en-US": "No thinking records to display for this round. Check thinking settings in model management.",
+    "ja-JP": "このラウンドに表示できる思考記録はありません。モデル管理で思考設定を確認できます。"
+  },
+  "本轮遇到问题": {
+    "en-US": "A problem occurred in this round",
+    "ja-JP": "このラウンドで問題が発生しました"
+  },
+  "本页只读取已保存的标准和报告。实际模型评测由开发流程执行，并保留原始证据。": {
+    "en-US": "This page only reads saved standards and reports. Actual model evaluations are run by the development process, with raw evidence preserved.",
+    "ja-JP": "このページは保存済みの基準とレポートのみを読み取ります。実際のモデル評価は開発プロセスで実行され、元の証拠が保持されます。"
+  },
+  "材质": {
+    "en-US": "Material",
+    "ja-JP": "素材"
+  },
+  "条": {
+    "en-US": "items",
+    "ja-JP": "件"
+  },
+  "条件": {
+    "en-US": "Condition",
+    "ja-JP": "条件"
+  },
+  "来源": {
+    "en-US": "Source",
+    "ja-JP": "ソース"
+  },
+  "极高": {
+    "en-US": "Very high",
+    "ja-JP": "極めて高い"
+  },
+  "查看 {0} 详情": {
+    "en-US": "View {0} details",
+    "ja-JP": "{0}の詳細を見る"
+  },
+  "查看全部 {0} 件": {
+    "en-US": "View all {0} items",
+    "ja-JP": "全{0}件を見る"
+  },
+  "查看取消确认单": {
+    "en-US": "View cancellation confirmation",
+    "ja-JP": "キャンセル確認書を見る"
+  },
+  "查看商品详细信息": {
+    "en-US": "View product details",
+    "ja-JP": "商品の詳細情報を見る"
+  },
+  "查看报告来源与约束覆盖；离线算法和冻结真实候选回放均保留为诊断证据。": {
+    "en-US": "View report sources and constraint coverage; both offline algorithms and frozen real-candidate replays are kept as diagnostic evidence.",
+    "ja-JP": "レポートのソースと制約カバレッジを確認します。オフラインアルゴリズムと凍結した実候補のリプレイはいずれも診断証拠として保持されます。"
+  },
+  "查看方案 ": {
+    "en-US": "View plan ",
+    "ja-JP": "プランを見る "
+  },
+  "查看明细与收货信息": {
+    "en-US": "View details and shipping information",
+    "ja-JP": "明細と配送情報を見る"
+  },
+  "查看未达标指标与退化样本，修复后保留新的候选报告。": {
+    "en-US": "View metrics below target and degraded samples; after fixing, keep the new candidate report.",
+    "ja-JP": "未達指標と劣化サンプルを確認します。修正後、新しい候補レポートを保持します。"
+  },
+  "查看计划时间": {
+    "en-US": "View planned time",
+    "ja-JP": "予定時刻を見る"
+  },
+  "查看记录": {
+    "en-US": "View records",
+    "ja-JP": "記録を見る"
+  },
+  "查看详情": {
+    "en-US": "View details",
+    "ja-JP": "詳細を見る"
+  },
+  "查看运行记录": {
+    "en-US": "View run records",
+    "ja-JP": "実行記録を見る"
+  },
+  "查询数": {
+    "en-US": "Query count",
+    "ja-JP": "クエリ数"
+  },
+  "查询模式": {
+    "en-US": "Query mode",
+    "ja-JP": "クエリモード"
+  },
+  "查询编号": {
+    "en-US": "Query ID",
+    "ja-JP": "クエリ番号"
+  },
+  "查询选择指纹": {
+    "en-US": "Query selection fingerprint",
+    "ja-JP": "クエリ選択フィンガープリント"
+  },
+  "标准": {
+    "en-US": "Standard",
+    "ja-JP": "基準"
+  },
+  "标准已建立；真实评测完成后，这里展示前后差异。": {
+    "en-US": "Standard established; once the real evaluation is complete, the before-and-after differences will be shown here.",
+    "ja-JP": "基準を確立しました。実際の評価が完了すると、ここに前後の差分が表示されます。"
+  },
+  "标准版本": {
+    "en-US": "Standard version",
+    "ja-JP": "基準バージョン"
+  },
+  "标注集指纹": {
+    "en-US": "Annotation set fingerprint",
+    "ja-JP": "アノテーションセットのフィンガープリント"
+  },
+  "校验并保存模型": {
+    "en-US": "Validate and save model",
+    "ja-JP": "モデルを検証して保存"
+  },
+  "校验并添加模型": {
+    "en-US": "Validate and add model",
+    "ja-JP": "モデルを検証して追加"
+  },
+  "样本筛选": {
+    "en-US": "Sample filtering",
+    "ja-JP": "サンプルフィルタリング"
+  },
+  "核对于 ": {
+    "en-US": "Check against ",
+    "ja-JP": "照合対象: "
+  },
+  "核对后，再确认": {
+    "en-US": "Check, then confirm",
+    "ja-JP": "確認してから確定"
+  },
+  "核验库存与报价": {
+    "en-US": "Verify stock and pricing",
+    "ja-JP": "在庫と価格を確認"
+  },
+  "检索评测": {
+    "en-US": "Retrieval evaluation",
+    "ja-JP": "検索評価"
+  },
+  "检索评测工作台": {
+    "en-US": "Retrieval evaluation workbench",
+    "ja-JP": "検索評価ワークベンチ"
+  },
+  "检索评测报告格式无效": {
+    "en-US": "Invalid retrieval evaluation report format",
+    "ja-JP": "検索評価レポートの形式が無効です"
+  },
+  "检索质量 · 前后对照": {
+    "en-US": "Retrieval quality · Before and after comparison",
+    "ja-JP": "検索品質 · 前後比較"
+  },
+  "模型列表与默认选项已保存。": {
+    "en-US": "Model list and default options saved.",
+    "ja-JP": "モデルリストとデフォルトオプションを保存しました。"
+  },
+  "模型列表暂时无法读取": {
+    "en-US": "Unable to read the model list at the moment",
+    "ja-JP": "現在モデルリストを読み取れません"
+  },
+  "模型列表格式无效，请重新加载。": {
+    "en-US": "Invalid model list format. Please reload.",
+    "ja-JP": "モデルリストの形式が無効です。再読み込みしてください。"
+  },
+  "模型名称": {
+    "en-US": "Model name",
+    "ja-JP": "モデル名"
+  },
+  "模型尚未启动": {
+    "en-US": "Model not started yet",
+    "ja-JP": "モデルはまだ起動していません"
+  },
+  "模型已校验并更新，正在执行的回复保持原配置。": {
+    "en-US": "Model validated and updated. Ongoing replies keep the original configuration.",
+    "ja-JP": "モデルを検証して更新しました。実行中の返信は元の設定を維持します。"
+  },
+  "模型已校验并添加，可在选择列表中使用。": {
+    "en-US": "Model validated and added. It is now available in the selection list.",
+    "ja-JP": "モデルを検証して追加しました。選択リストで使用できます。"
+  },
+  "模型最大窗口": {
+    "en-US": "Model max window",
+    "ja-JP": "モデル最大ウィンドウ"
+  },
+  "模型本轮未返回可展示的思考内容，或旧会话没有保存该记录。": {
+    "en-US": "The model returned no displayable thinking content this round, or the previous session did not save this record.",
+    "ja-JP": "モデルは今回表示可能な思考内容を返さなかったか、以前のセッションにこの記録が保存されていません。"
+  },
+  "模型来源": {
+    "en-US": "Model source",
+    "ja-JP": "モデルソース"
+  },
+  "模型校验未返回有效凭证，请重试。": {
+    "en-US": "Model validation returned no valid credentials. Please retry.",
+    "ja-JP": "モデル検証で有効な認証情報が返されませんでした。再試行してください。"
+  },
+  "模型管理": {
+    "en-US": "Model management",
+    "ja-JP": "モデル管理"
+  },
+  "模型设置已保存。": {
+    "en-US": "Model settings saved.",
+    "ja-JP": "モデル設定を保存しました。"
+  },
+  "模型返回的思考内容": {
+    "en-US": "Thinking content returned by the model",
+    "ja-JP": "モデルが返した思考内容"
+  },
+  "模板": {
+    "en-US": "Template",
+    "ja-JP": "テンプレート"
+  },
+  "正在为你整理合适的选择…": {
+    "en-US": "Putting together suitable options for you…",
+    "ja-JP": "あなたに合った選択肢を整理しています…"
+  },
+  "正在保存…": {
+    "en-US": "Saving…",
+    "ja-JP": "保存中…"
+  },
+  "正在准备…": {
+    "en-US": "Preparing…",
+    "ja-JP": "準備中…"
+  },
+  "正在同步…": {
+    "en-US": "Syncing…",
+    "ja-JP": "同期中…"
+  },
+  "正在处理": {
+    "en-US": "Processing",
+    "ja-JP": "処理中"
+  },
+  "正在处理…": {
+    "en-US": "Processing…",
+    "ja-JP": "処理中…"
+  },
+  "正在处理中": {
+    "en-US": "Processing",
+    "ja-JP": "処理中"
+  },
+  "正在完成这次选购，结束后可编辑。新记忆从下一轮开始生效。": {
+    "en-US": "Completing this purchase. You can edit it afterward. New memories take effect from the next round.",
+    "ja-JP": "この購入を完了しています。終了後に編集できます。新しい記憶は次のラウンドから有効になります。"
+  },
+  "正在恢复服务端执行进度": {
+    "en-US": "Restoring server-side execution progress",
+    "ja-JP": "サーバー側の実行進捗を復元中"
+  },
+  "正在接收": {
+    "en-US": "Receiving",
+    "ja-JP": "受信中"
+  },
+  "正在接收执行过程": {
+    "en-US": "Receiving execution process",
+    "ja-JP": "実行プロセスを受信中"
+  },
+  "正在整理…": {
+    "en-US": "Organizing…",
+    "ja-JP": "整理中…"
+  },
+  "正在整理建议": {
+    "en-US": "Organizing suggestions",
+    "ja-JP": "提案を整理中"
+  },
+  "正在查找商品": {
+    "en-US": "Searching for products",
+    "ja-JP": "商品を検索中"
+  },
+  "正在查看可用方案…": {
+    "en-US": "Checking available options…",
+    "ja-JP": "利用可能なプランを確認中…"
+  },
+  "正在查看可用的选购方案…": {
+    "en-US": "Checking available purchase options…",
+    "ja-JP": "利用可能な購入プランを確認中…"
+  },
+  "正在校验并保存…": {
+    "en-US": "Validating and saving…",
+    "ja-JP": "検証して保存中…"
+  },
+  "正在核对并生成…": {
+    "en-US": "Verifying and generating…",
+    "ja-JP": "確認して生成中…"
+  },
+  "正在核对时间…": {
+    "en-US": "Checking the time…",
+    "ja-JP": "時間を確認中…"
+  },
+  "正在比较的商品：": {
+    "en-US": "Products being compared:",
+    "ja-JP": "比較中の商品："
+  },
+  "正在测试…": {
+    "en-US": "Testing…",
+    "ja-JP": "テスト中…"
+  },
+  "正在理解你的需求": {
+    "en-US": "Understanding your needs",
+    "ja-JP": "あなたのニーズを理解中"
+  },
+  "正在生成，显示上轮已保存的估算；本轮结束后更新。": {
+    "en-US": "Generating. Showing the estimate saved from the previous round; it will update after this round ends.",
+    "ja-JP": "生成中。前回保存された見積もりを表示しています。今回の終了後に更新されます。"
+  },
+  "正在确认停止请求": {
+    "en-US": "Confirming stop request",
+    "ja-JP": "停止リクエストを確認中"
+  },
+  "正在等待模型返回思考内容…": {
+    "en-US": "Waiting for the model to return thinking content…",
+    "ja-JP": "モデルが思考内容を返すのを待っています…"
+  },
+  "正在读取": {
+    "en-US": "Reading",
+    "ja-JP": "読み取り中"
+  },
+  "正在读取优化标准与评测报告…": {
+    "en-US": "Reading optimization criteria and evaluation report…",
+    "ja-JP": "最適化基準と評価レポートを読み取り中…"
+  },
+  "正在读取会话上下文…": {
+    "en-US": "Reading session context…",
+    "ja-JP": "セッションコンテキストを読み取り中…"
+  },
+  "正在读取已保存的内容…": {
+    "en-US": "Reading saved content…",
+    "ja-JP": "保存された内容を読み取り中…"
+  },
+  "正在读取已保存的计划…": {
+    "en-US": "Reading saved plan…",
+    "ja-JP": "保存された計画を読み取り中…"
+  },
+  "正在读取方案": {
+    "en-US": "Reading plan",
+    "ja-JP": "プランを読み取り中"
+  },
+  "正在读取本次调用的商品…": {
+    "en-US": "Reading products for this call…",
+    "ja-JP": "今回の呼び出しの商品を読み取り中…"
+  },
+  "正在读取模型…": {
+    "en-US": "Reading model…",
+    "ja-JP": "モデルを読み取り中…"
+  },
+  "正在读取订单…": {
+    "en-US": "Reading order…",
+    "ja-JP": "注文を読み取り中…"
+  },
+  "正在读取选购方案": {
+    "en-US": "Reading purchase options",
+    "ja-JP": "購入プランを読み取り中"
+  },
+  "正在进行的回复保持原模型，新设置在下一轮生效。": {
+    "en-US": "Ongoing replies keep the original model. New settings take effect in the next round.",
+    "ja-JP": "実行中の返信は元のモデルを維持します。新しい設定は次のラウンドから有効になります。"
+  },
+  "正在连接…": {
+    "en-US": "Connecting…",
+    "ja-JP": "接続中…"
+  },
+  "正在连接调度服务": {
+    "en-US": "Connecting to the scheduling service",
+    "ja-JP": "スケジューリングサービスに接続中"
+  },
+  "此会话沿用历史连接。": {
+    "en-US": "This session reuses the previous connection.",
+    "ja-JP": "このセッションは以前の接続を引き継ぎます。"
+  },
+  "此处仅展示可读取的商品": {
+    "en-US": "Only readable products are shown here",
+    "ja-JP": "ここには読み取り可能な商品のみ表示されます"
+  },
+  "每一次选择，都有新发现": {
+    "en-US": "Every choice brings a new discovery",
+    "ja-JP": "選ぶたびに新しい発見がある"
+  },
+  "每周": {
+    "en-US": "Weekly",
+    "ja-JP": "毎週"
+  },
+  "每周{0} {1}": {
+    "en-US": "Every week {0} {1}",
+    "ja-JP": "毎週{0} {1}"
+  },
+  "每天": {
+    "en-US": "Daily",
+    "ja-JP": "毎日"
+  },
+  "每天 {0}": {
+    "en-US": "Every day {0}",
+    "ja-JP": "毎日 {0}"
+  },
+  "每次在同一会话继续，结合已有历史。": {
+    "en-US": "Continue in the same session each time, using existing history.",
+    "ja-JP": "毎回同じセッションで続行し、既存の履歴を引き継ぎます。"
+  },
+  "每次新建会话，不带入上次对话。": {
+    "en-US": "Start a new session each time, without carrying over the previous conversation.",
+    "ja-JP": "毎回新しいセッションを開始し、前回の会話を引き継ぎません。"
+  },
+  "每轮最大输出 tokens": {
+    "en-US": "Max output tokens per turn",
+    "ja-JP": "1ターンあたりの最大出力トークン数"
+  },
+  "比较": {
+    "en-US": "Compare",
+    "ja-JP": "比較"
+  },
+  "比较商品目录、标注集、查询选择、模型与评测口径；源码和检索配置允许作为实验变量。": {
+    "en-US": "Compare product catalogs, labeled sets, query selections, models, and evaluation criteria; source code and retrieval configs may be used as experimental variables.",
+    "ja-JP": "商品カタログ、ラベルセット、クエリ選択、モデル、評価基準を比較します。ソースコードと検索設定は実験変数として使用できます。"
+  },
+  "比较商品：": {
+    "en-US": "Compare products:",
+    "ja-JP": "商品を比較："
+  },
+  "没有匹配的方案，换个名称试试。": {
+    "en-US": "No matching plan. Try a different name.",
+    "ja-JP": "一致するプランがありません。別の名前をお試しください。"
+  },
+  "没有找到匹配记录": {
+    "en-US": "No matching records found",
+    "ja-JP": "一致するレコードが見つかりません"
+  },
+  "没有找到模型，可到模型管理中添加或显示。": {
+    "en-US": "No models found. Add or show them in Model Management.",
+    "ja-JP": "モデルが見つかりません。モデル管理で追加または表示してください。"
+  },
+  "沿用当前网关连接": {
+    "en-US": "Use the current gateway connection",
+    "ja-JP": "現在のゲートウェイ接続を使用"
+  },
+  "泡": {
+    "en-US": "Soak",
+    "ja-JP": "浸す"
+  },
+  "流式回复与工具往返可用。小请求不验证大窗口容量。": {
+    "en-US": "Streaming replies and tool round-trips are available. Small requests do not verify large context capacity.",
+    "ja-JP": "ストリーミング応答とツールの往復が利用可能です。小さなリクエストでは大きなコンテキスト容量を検証できません。"
+  },
+  "测试与保存都会发送少量固定样例，不携带你的对话。": {
+    "en-US": "Both testing and saving send a small fixed sample and do not include your conversation.",
+    "ja-JP": "テストと保存のいずれも少量の固定サンプルを送信し、あなたの会話は含まれません。"
+  },
+  "测试时间：": {
+    "en-US": "Test time:",
+    "ja-JP": "テスト時間："
+  },
+  "测试连接": {
+    "en-US": "Test connection",
+    "ja-JP": "接続をテスト"
+  },
+  "浏览模板": {
+    "en-US": "Browse templates",
+    "ja-JP": "テンプレートを閲覧"
+  },
+  "添加一条长期偏好": {
+    "en-US": "Add a long-term preference",
+    "ja-JP": "長期的な好みを追加"
+  },
+  "添加偏好": {
+    "en-US": "Add preference",
+    "ja-JP": "好みを追加"
+  },
+  "添加模型": {
+    "en-US": "Add model",
+    "ja-JP": "モデルを追加"
+  },
+  "添加第一个模型": {
+    "en-US": "Add your first model",
+    "ja-JP": "最初のモデルを追加"
+  },
+  "清空": {
+    "en-US": "Clear",
+    "ja-JP": "クリア"
+  },
+  "清除搜索": {
+    "en-US": "Clear search",
+    "ja-JP": "検索をクリア"
+  },
+  "源码指纹": {
+    "en-US": "Source fingerprint",
+    "ja-JP": "ソースフィンガープリント"
+  },
+  "澄清选购需求": {
+    "en-US": "Clarify shopping needs",
+    "ja-JP": "購入ニーズを明確化"
+  },
+  "点击右上角「新建 Skill」开始。": {
+    "en-US": "Click \"New Skill\" in the top right to start.",
+    "ja-JP": "右上の「新しいスキル」をクリックして開始してください。"
+  },
+  "点击商品上的爱心，把喜欢的好物留在这里。": {
+    "en-US": "Tap the heart on a product to save your favorites here.",
+    "ja-JP": "商品のハートをタップすると、お気に入りがここに保存されます。"
+  },
+  "独立任务输出": {
+    "en-US": "Independent task output",
+    "ja-JP": "独立タスクの出力"
+  },
+  "独立输入上限": {
+    "en-US": "Independent input limit",
+    "ja-JP": "独立入力の上限"
+  },
+  "独立输出": {
+    "en-US": "Independent output",
+    "ja-JP": "独立出力"
+  },
+  "环球好物": {
+    "en-US": "Global Finds",
+    "ja-JP": "世界のいいもの"
+  },
+  "生成取消确认单": {
+    "en-US": "Generate cancellation confirmation",
+    "ja-JP": "キャンセル確認書を生成"
+  },
+  "生成确认单": {
+    "en-US": "Generate confirmation",
+    "ja-JP": "確認書を生成"
+  },
+  "用于页面展示，可以自行命名。": {
+    "en-US": "Used for page display; you can name it yourself.",
+    "ja-JP": "ページ表示用です。自由に名前を付けられます。"
+  },
+  "用当前规格比较": {
+    "en-US": "Compare with current specs",
+    "ja-JP": "現在の仕様で比較"
+  },
+  "用途、预算和小偏好，都可以告诉我": {
+    "en-US": "Tell me your use case, budget, and any small preferences",
+    "ja-JP": "用途、予算、ちょっとした好みも教えてください"
+  },
+  "由你作决定": {
+    "en-US": "You decide",
+    "ja-JP": "あなたが決める"
+  },
+  "申请取消这笔意向单": {
+    "en-US": "Request cancellation of this order intent",
+    "ja-JP": "この意向注文のキャンセルを申請"
+  },
+  "界面语言": {
+    "en-US": "Interface language",
+    "ja-JP": "インターフェース言語"
+  },
+  "留空保留已配置的密钥": {
+    "en-US": "Leave blank to keep the configured key",
+    "ja-JP": "空欄のままにすると設定済みのキーを保持します"
+  },
+  "的上下文窗口": {
+    "en-US": "context window",
+    "ja-JP": "のコンテキストウィンドウ"
+  },
+  "的思考设置": {
+    "en-US": "thinking settings",
+    "ja-JP": "の思考設定"
+  },
+  "目录商品单价 · 最终以确认单为准": {
+    "en-US": "Catalog unit price · subject to the final confirmation",
+    "ja-JP": "カタログ商品単価 · 最終的には確認書に準じます"
+  },
+  "目录库存 {0}": {
+    "en-US": "Catalog stock {0}",
+    "ja-JP": "カタログ在庫 {0}"
+  },
+  "目录暂无库存": {
+    "en-US": "Out of stock in catalog",
+    "ja-JP": "カタログ在庫なし"
+  },
+  "目录未提供": {
+    "en-US": "Not provided in catalog",
+    "ja-JP": "カタログ未提供"
+  },
+  "目录默认规格": {
+    "en-US": "Catalog default specs",
+    "ja-JP": "カタログのデフォルト仕様"
+  },
+  "直接提问 · 自动匹配": {
+    "en-US": "Ask directly · auto-match",
+    "ja-JP": "直接質問 · 自動マッチング"
+  },
+  "省 / 州": {
+    "en-US": "State / Province",
+    "ja-JP": "都道府県 / 州"
+  },
+  "看看 12 款装备 · 单件 500 元内": {
+    "en-US": "View 12 items · under 500 CNY each",
+    "ja-JP": "12点のアイテムを見る · 1点500元以内"
+  },
+  "看看我的收藏": {
+    "en-US": "View my favorites",
+    "ja-JP": "お気に入りを見る"
+  },
+  "看看细节": {
+    "en-US": "View details",
+    "ja-JP": "詳細を見る"
+  },
+  "硬约束违规检查": {
+    "en-US": "Hard constraint violation check",
+    "ja-JP": "ハード制約違反チェック"
+  },
+  "硬约束违规率": {
+    "en-US": "Hard constraint violation rate",
+    "ja-JP": "ハード制約違反率"
+  },
+  "确认创建意向单": {
+    "en-US": "Confirm creating order intent",
+    "ja-JP": "意向注文の作成を確認"
+  },
+  "确认删除": {
+    "en-US": "Confirm deletion",
+    "ja-JP": "削除を確認"
+  },
+  "确认单只包含商品金额，不含运费与关税。生成确认单不会下单、扣库存或付款。": {
+    "en-US": "The confirmation only includes item amounts, excluding shipping and duties. Generating a confirmation does not place an order, deduct inventory, or process payment.",
+    "ja-JP": "確認書には商品金額のみが含まれ、送料と関税は含まれません。確認書の生成では注文・在庫引き当て・支払いは行われません。"
+  },
+  "确认单已准备好，请核对后决定。": {
+    "en-US": "The confirmation is ready. Please review and decide.",
+    "ja-JP": "確認書の準備ができました。内容をご確認のうえご判断ください。"
+  },
+  "确认取消意向单": {
+    "en-US": "Confirm canceling order intent",
+    "ja-JP": "意向注文のキャンセルを確認"
+  },
+  "确认取消这笔意向单": {
+    "en-US": "Confirm canceling this order intent",
+    "ja-JP": "この意向注文のキャンセルを確認"
+  },
+  "确认已过期": {
+    "en-US": "Confirmed expired",
+    "ja-JP": "期限切れを確認"
+  },
+  "确认服务暂时不可用，请刷新状态后重试。": {
+    "en-US": "Confirmed the service is temporarily unavailable. Please refresh the status and try again.",
+    "ja-JP": "サービスが一時的に利用できないことを確認しました。ステータスを更新して再試行してください。"
+  },
+  "确认服务返回格式无效，请刷新状态。": {
+    "en-US": "Confirmed the service returned an invalid format. Please refresh the status.",
+    "ja-JP": "サービスが無効な形式を返したことを確認しました。ステータスを更新してください。"
+  },
+  "确认结果格式无效，请刷新状态，避免重复准备操作。": {
+    "en-US": "Confirmed the result format is invalid. Please refresh the status to avoid repeating the preparation.",
+    "ja-JP": "結果の形式が無効であることを確認しました。準備操作の重複を避けるため、ステータスを更新してください。"
+  },
+  "移除 Skill": {
+    "en-US": "Remove Skill",
+    "ja-JP": "スキルを削除"
+  },
+  "立即执行": {
+    "en-US": "Run now",
+    "ja-JP": "今すぐ実行"
+  },
+  "第 ": {
+    "en-US": "No. ",
+    "ja-JP": "第 "
+  },
+  "第一段选购，等你开启。": {
+    "en-US": "The first shopping step is ready for you to start.",
+    "ja-JP": "最初のお買い物を始めましょう。"
+  },
+  "等待你确认": {
+    "en-US": "Waiting for your confirmation",
+    "ja-JP": "確認をお待ちしています"
+  },
+  "等待本次读取完成后再判断验收状态。": {
+    "en-US": "Wait for this read to complete before judging the acceptance status.",
+    "ja-JP": "今回の読み取りが完了してから受け入れ状態を判断してください。"
+  },
+  "等待确认": {
+    "en-US": "Awaiting confirmation",
+    "ja-JP": "確認待ち"
+  },
+  "答案仅用于本次选购，带 * 的问题为必填。": {
+    "en-US": "Answers are used only for this shopping session. Questions marked with * are required.",
+    "ja-JP": "回答は今回の商品選びにのみ使用されます。* 付きの質問は必須です。"
+  },
+  "答案包含本次未提问的字段": {
+    "en-US": "The answer contains fields not asked in this session",
+    "ja-JP": "回答に今回質問していないフィールドが含まれています"
+  },
+  "简体中文": {
+    "en-US": "Simplified Chinese",
+    "ja-JP": "簡体字中国語"
+  },
+  "精度以实际返回数量为分母；同时检查召回与空结果，防止通过少返回商品制造提升。指标差值以百分点展示。离线或回放耗时不能作为线上延迟收益。": {
+    "en-US": "Precision uses the actual number of returned items as the denominator; check both recall and empty results to prevent inflating metrics by returning fewer items. Metric differences are shown in percentage points. Offline or replay latency cannot be counted as online latency gains.",
+    "ja-JP": "精度は実際に返された件数を分母とします。召回と空結果の両方を確認し、返却件数を減らして指標を水増しすることを防ぎます。指標の差分はパーセントポイントで表示します。オフラインやリプレイの所要時間をオンラインのレイテンシ改善として扱うことはできません。"
+  },
+  "精选商品": {
+    "en-US": "Featured items",
+    "ja-JP": "厳選商品"
+  },
+  "系统会先提炼稳定偏好、去除无关内容，再保存为独立记忆并建立语义索引。保存后请核对左侧实际记住的内容；临时需求请直接在对话中提出。": {
+    "en-US": "The system first extracts stable preferences, removes irrelevant content, then saves them as independent memories and builds a semantic index. After saving, check what was actually remembered on the left; state temporary needs directly in the conversation.",
+    "ja-JP": "システムはまず安定した好みを抽出し、無関係な内容を除去してから、独立した記憶として保存しセマンティックインデックスを構築します。保存後は左側に実際に記憶された内容をご確認ください。一時的なニーズは会話内で直接お伝えください。"
+  },
+  "约束": {
+    "en-US": "Constraints",
+    "ja-JP": "制約"
+  },
+  "约束违规": {
+    "en-US": "Constraint violation",
+    "ja-JP": "制約違反"
+  },
+  "结果": {
+    "en-US": "Results",
+    "ja-JP": "結果"
+  },
+  "结果关联不匹配": {
+    "en-US": "Result association mismatch",
+    "ja-JP": "結果の関連付けが不一致"
+  },
+  "结果来自商品目录。示意图与样例评分均已标注，价格以具体规格及配送条件为准。": {
+    "en-US": "Results come from the product catalog. Illustrations and sample ratings are labeled; prices depend on specific specifications and delivery conditions.",
+    "ja-JP": "結果は商品カタログから取得しています。イメージ画像とサンプル評価には注記があります。価格は具体的な仕様と配送条件によります。"
+  },
+  "给下一次选购，安排一个时间": {
+    "en-US": "Schedule a time for the next shopping session",
+    "ja-JP": "次回の商品選びに時間を設定"
+  },
+  "编辑": {
+    "en-US": "Edit",
+    "ja-JP": "編集"
+  },
+  "编辑 Skill": {
+    "en-US": "Edit Skill",
+    "ja-JP": "スキルを編集"
+  },
+  "编辑偏好：": {
+    "en-US": "Edit preference:",
+    "ja-JP": "好みを編集："
+  },
+  "编辑模型": {
+    "en-US": "Edit model",
+    "ja-JP": "モデルを編集"
+  },
+  "编辑自动化": {
+    "en-US": "Edit automation",
+    "ja-JP": "自動化を編集"
+  },
+  "编辑连接": {
+    "en-US": "Edit connection",
+    "ja-JP": "接続を編集"
+  },
+  "网关未返回型号，身份未知。": {
+    "en-US": "The gateway did not return a model; identity unknown.",
+    "ja-JP": "ゲートウェイがモデルを返しませんでした。IDは不明です。"
+  },
+  "网关返回型号：": {
+    "en-US": "Gateway returned model:",
+    "ja-JP": "ゲートウェイが返したモデル："
+  },
+  "联系电话": {
+    "en-US": "Contact phone",
+    "ja-JP": "連絡先電話番号"
+  },
+  "自动": {
+    "en-US": "Auto",
+    "ja-JP": "自動"
+  },
+  "自动化": {
+    "en-US": "Automation",
+    "ja-JP": "自動化"
+  },
+  "自动化会话": {
+    "en-US": "Automation session",
+    "ja-JP": "自動化セッション"
+  },
+  "自动化已保存。": {
+    "en-US": "Automation saved.",
+    "ja-JP": "自動化を保存しました。"
+  },
+  "自动化暂时读取失败": {
+    "en-US": "Failed to load automation temporarily",
+    "ja-JP": "自動化の読み込みに一時的に失敗しました"
+  },
+  "自动化视图": {
+    "en-US": "Automation view",
+    "ja-JP": "自動化ビュー"
+  },
+  "自动开始": {
+    "en-US": "Auto start",
+    "ja-JP": "自動開始"
+  },
+  "自定义": {
+    "en-US": "Custom",
+    "ja-JP": "カスタム"
+  },
+  "自定义模型": {
+    "en-US": "Custom model",
+    "ja-JP": "カスタムモデル"
+  },
+  "自定义模型列表": {
+    "en-US": "Custom model list",
+    "ja-JP": "カスタムモデル一覧"
+  },
+  "自定义网关 · OpenAI 兼容": {
+    "en-US": "Custom gateway · OpenAI compatible",
+    "ja-JP": "カスタムゲートウェイ · OpenAI 互換"
+  },
+  "草稿": {
+    "en-US": "Draft",
+    "ja-JP": "下書き"
+  },
+  "街道、楼栋与门牌号": {
+    "en-US": "Street, building, and unit number",
+    "ja-JP": "番地・建物名・部屋番号"
+  },
+  "衡量相关商品是否排在前面，越高越好。": {
+    "en-US": "Measures whether relevant products rank higher; the higher, the better.",
+    "ja-JP": "関連商品が上位に表示されるかを測る指標。高いほど良い。"
+  },
+  "规格不可用": {
+    "en-US": "Specification unavailable",
+    "ja-JP": "仕様は利用できません"
+  },
+  "规格编号": {
+    "en-US": "Specification ID",
+    "ja-JP": "仕様番号"
+  },
+  "计划与结果保存到你的账户，刷新后仍可查看。": {
+    "en-US": "Plans and results are saved to your account and remain viewable after refresh.",
+    "ja-JP": "プランと結果はアカウントに保存され、更新後も確認できます。"
+  },
+  "计划时间": {
+    "en-US": "Scheduled time",
+    "ja-JP": "予定時刻"
+  },
+  "计划时间：": {
+    "en-US": "Scheduled time:",
+    "ja-JP": "予定時刻："
+  },
+  "计划状态已更新。": {
+    "en-US": "Plan status updated.",
+    "ja-JP": "プランのステータスを更新しました。"
+  },
+  "订单与收藏": {
+    "en-US": "Orders and favorites",
+    "ja-JP": "注文とお気に入り"
+  },
+  "订单与收藏切换": {
+    "en-US": "Switch between orders and favorites",
+    "ja-JP": "注文とお気に入りの切り替え"
+  },
+  "订单分页": {
+    "en-US": "Order pagination",
+    "ja-JP": "注文のページ送り"
+  },
+  "订单已取消": {
+    "en-US": "Order canceled",
+    "ja-JP": "注文はキャンセルされました"
+  },
+  "订单数据格式无效": {
+    "en-US": "Invalid order data format",
+    "ja-JP": "注文データの形式が無効です"
+  },
+  "订单暂时无法读取": {
+    "en-US": "Orders are temporarily unavailable",
+    "ja-JP": "注文を一時的に読み込めません"
+  },
+  "订单状态筛选": {
+    "en-US": "Filter by order status",
+    "ja-JP": "注文ステータスで絞り込む"
+  },
+  "订单详情": {
+    "en-US": "Order details",
+    "ja-JP": "注文の詳細"
+  },
+  "认真挑选 · 清楚比较 · 从容决定": {
+    "en-US": "Choose carefully · Compare clearly · Decide with confidence",
+    "ja-JP": "じっくり選ぶ · 明確に比較する · 納得して決める"
+  },
+  "让合适的商品，排在前面": {
+    "en-US": "Put the right products first",
+    "ja-JP": "ぴったりの商品を上位に"
+  },
+  "让选择，轻一点。": {
+    "en-US": "Make choosing a little easier.",
+    "ja-JP": "選択をもっと軽やかに。"
+  },
+  "记住这件事": {
+    "en-US": "Remember this",
+    "ja-JP": "これを記憶する"
+  },
+  "记录耗时 P95": {
+    "en-US": "Record latency P95",
+    "ja-JP": "記録の所要時間 P95"
+  },
+  "记录读取失败": {
+    "en-US": "Failed to read records",
+    "ja-JP": "記録の読み込みに失敗しました"
+  },
+  "记忆变更记录": {
+    "en-US": "Memory change log",
+    "ja-JP": "メモリ変更履歴"
+  },
+  "设为新会话默认": {
+    "en-US": "Set as default for new sessions",
+    "ja-JP": "新しいセッションのデフォルトに設定"
+  },
+  "设置一次计划，集中查看每次结果。你决定何时开始，也保留每一次确认。": {
+    "en-US": "Set up a plan once and review every result in one place. You decide when to start and keep every confirmation.",
+    "ja-JP": "プランを一度設定すれば、すべての結果をまとめて確認できます。開始時期はあなたが決め、確認のたびに記録が残ります。"
+  },
+  "设置到期日期": {
+    "en-US": "Set expiration date",
+    "ja-JP": "有効期限を設定"
+  },
+  "评分样例": {
+    "en-US": "Rating sample",
+    "ja-JP": "評価サンプル"
+  },
+  "评测口径与保护指标": {
+    "en-US": "Evaluation criteria and guardrail metrics",
+    "ja-JP": "評価基準と保護指標"
+  },
+  "评测报告读取失败，请重试": {
+    "en-US": "Failed to load the evaluation report. Please try again.",
+    "ja-JP": "評価レポートの読み込みに失敗しました。もう一度お試しください。"
+  },
+  "评测服务返回格式无效。": {
+    "en-US": "The evaluation service returned an invalid format.",
+    "ja-JP": "評価サービスが無効な形式を返しました。"
+  },
+  "评测服务返回格式无效，请检查只读服务是否启动。": {
+    "en-US": "The evaluation service returned an invalid format. Check whether the read-only service is running.",
+    "ja-JP": "評価サービスが無効な形式を返しました。読み取り専用サービスが起動しているか確認してください。"
+  },
+  "诊断对照": {
+    "en-US": "Diagnostic comparison",
+    "ja-JP": "診断用比較"
+  },
+  "诊断对照，尚未完成正式验收": {
+    "en-US": "Diagnostic comparison; formal acceptance not yet complete",
+    "ja-JP": "診断用比較。正式な受け入れは未完了です"
+  },
+  "试试其他标题关键词，或输入会话 ID。": {
+    "en-US": "Try another title keyword or enter a session ID.",
+    "ja-JP": "別のタイトルキーワードを試すか、セッション ID を入力してください。"
+  },
+  "该会话暂时无法从服务端恢复，显示已有缓存。": {
+    "en-US": "This session cannot be restored from the server right now; showing cached data.",
+    "ja-JP": "このセッションは現在サーバーから復元できないため、キャッシュを表示しています。"
+  },
+  "该运行未完成，已恢复保存的内容；可重新提交需求。": {
+    "en-US": "This run did not complete; saved content has been restored. You can resubmit your request.",
+    "ja-JP": "この実行は完了していません。保存された内容を復元しました。リクエストを再送信できます。"
+  },
+  "详细地址": {
+    "en-US": "Detailed address",
+    "ja-JP": "詳細住所"
+  },
+  "请先完成或停止当前运行及待处理确认。": {
+    "en-US": "Please first complete or stop the current run and pending confirmations.",
+    "ja-JP": "先に現在の実行と保留中の確認を完了または停止してください。"
+  },
+  "请先完成或拒绝待确认操作。": {
+    "en-US": "Please first complete or reject the pending confirmation.",
+    "ja-JP": "先に保留中の確認を完了または拒否してください。"
+  },
+  "请先批准或拒绝待处理的记忆操作。": {
+    "en-US": "Please first approve or reject the pending memory operation.",
+    "ja-JP": "先に保留中のメモリ操作を承認または拒否してください。"
+  },
+  "请刷新记录核对状态后再试。": {
+    "en-US": "Please refresh the records to verify the status, then try again.",
+    "ja-JP": "記録を更新してステータスを確認してから、もう一度お試しください。"
+  },
+  "请回答：{0}": {
+    "en-US": "Please answer: {0}",
+    "ja-JP": "回答してください：{0}"
+  },
+  "请填写有效窗口和输出上限：输出至少 8192，窗口还需留出输入和安全余量。": {
+    "en-US": "Enter a valid window and output limit: output must be at least 8192, and the window must leave room for input and safety margin.",
+    "ja-JP": "有効なウィンドウと出力上限を入力してください：出力は最低 8192 必要で、ウィンドウには入力と安全余裕の分も確保してください。"
+  },
+  "请填写本次取消原因": {
+    "en-US": "Please enter the reason for this cancellation",
+    "ja-JP": "今回のキャンセル理由を入力してください"
+  },
+  "请填写模型 ID 和服务地址。": {
+    "en-US": "Please enter the model ID and service address.",
+    "ja-JP": "モデル ID とサービスアドレスを入力してください。"
+  },
+  "请填写模型实际支持的思考档位。": {
+    "en-US": "Please enter the thinking levels actually supported by the model.",
+    "ja-JP": "モデルが実際にサポートする思考レベルを入力してください。"
+  },
+  "请按所选方案帮助我，先确认还缺少哪些必要信息。": {
+    "en-US": "Please help me with the selected plan, and first confirm what necessary information is still missing.",
+    "ja-JP": "選択したプランで進めてください。まず不足している必要情報を確認してください。"
+  },
+  "请核对操作状态": {
+    "en-US": "Please verify the operation status",
+    "ja-JP": "操作ステータスを確認してください"
+  },
+  "请根据本次选购目标，调用选购需求澄清工具，让我填写还缺少的必要条件；提交后再继续核验商品。": {
+    "en-US": "Based on this shopping goal, call the shopping requirements clarification tool so I can fill in the missing necessary conditions; continue verifying products after submission.",
+    "ja-JP": "今回の買い物の目標に基づき、買い物要件の明確化ツールを呼び出して、不足している必要条件を入力させてください。送信後に商品の確認を続けてください。"
+  },
+  "请检查答案：{0}": {
+    "en-US": "Please check the answer: {0}",
+    "ja-JP": "回答を確認してください：{0}"
+  },
+  "请确认长期记忆变更": {
+    "en-US": "Please confirm the long-term memory change",
+    "ja-JP": "長期的な記憶の変更を確認してください"
+  },
+  "请补全收件人、配送国家或地区、城市与详细地址。": {
+    "en-US": "Please complete the recipient, delivery country or region, city, and detailed address.",
+    "ja-JP": "受取人、配送先の国または地域、都市、詳細住所を入力してください。"
+  },
+  "请输入 API Key": {
+    "en-US": "Please enter the API Key",
+    "ja-JP": "API Key を入力してください"
+  },
+  "请进一步核对「{0}」（product_id={1}{2}）的当前库存与到手价。": {
+    "en-US": "Please further verify the current stock and final price of \"{0}\" (product_id={1}{2}).",
+    "ja-JP": "「{0}」（product_id={1}{2}）の現在の在庫と最終価格をさらに確認してください。"
+  },
+  "请选择": {
+    "en-US": "Please select",
+    "ja-JP": "選択してください"
+  },
+  "请选择可用的网关连接，或取消沿用后填写新连接。": {
+    "en-US": "Select an available gateway connection, or cancel the reuse and enter a new connection.",
+    "ja-JP": "利用可能なゲートウェイ接続を選択するか、引き継ぎをキャンセルして新しい接続を入力してください。"
+  },
+  "请选择有效规格，并填写正整数数量。": {
+    "en-US": "Select a valid specification and enter a positive integer quantity.",
+    "ja-JP": "有効な仕様を選択し、正の整数で数量を入力してください。"
+  },
+  "读取中…": {
+    "en-US": "Loading…",
+    "ja-JP": "読み込み中…"
+  },
+  "读取整理进度失败，正在重试": {
+    "en-US": "Failed to load organization progress, retrying",
+    "ja-JP": "整理の進捗を読み込めませんでした。再試行しています"
+  },
+  "读取模型…": {
+    "en-US": "Loading model…",
+    "ja-JP": "モデルを読み込み中…"
+  },
+  "调度服务在线 · 关闭页面后仍会执行": {
+    "en-US": "Scheduler online · will still run after you close the page",
+    "ja-JP": "スケジューラはオンライン · ページを閉じても実行されます"
+  },
+  "调度服务离线 · 已保存的计划将在服务恢复后检查": {
+    "en-US": "Scheduler offline · saved schedules will be checked when the service recovers",
+    "ja-JP": "スケジューラはオフライン · 保存済みのスケジュールはサービス復旧後に確認されます"
+  },
+  "调整一下需求": {
+    "en-US": "Adjust the requirements",
+    "ja-JP": "要件を調整する"
+  },
+  "调整预算": {
+    "en-US": "Adjust budget",
+    "ja-JP": "予算を調整する"
+  },
+  "调用工具": {
+    "en-US": "Call tool",
+    "ja-JP": "ツールを呼び出す"
+  },
+  "调用时发送这个型号，不使用展示名称。": {
+    "en-US": "Send this model name when calling, not the display name.",
+    "ja-JP": "呼び出し時は表示名ではなくこの型番を送信します。"
+  },
+  "调用消耗": {
+    "en-US": "Call usage",
+    "ja-JP": "呼び出し消費量"
+  },
+  "购买数量": {
+    "en-US": "Purchase quantity",
+    "ja-JP": "購入数量"
+  },
+  "跳过 · 上次未结束": {
+    "en-US": "Skip · last time unfinished",
+    "ja-JP": "スキップ · 前回未完了"
+  },
+  "输入 / 选择 Skill。说清商品范围、预算、收货地和你期待的输出。": {
+    "en-US": "Enter / select a Skill. Specify the product scope, budget, delivery location, and the output you expect.",
+    "ja-JP": "Skill を入力 / 選択してください。商品範囲、予算、配送先、期待する出力を明記してください。"
+  },
+  "输入上限需为正整数，且不能超过模型最大窗口。": {
+    "en-US": "The input limit must be a positive integer and cannot exceed the model's maximum window.",
+    "ja-JP": "入力上限は正の整数で、モデルの最大ウィンドウを超えることはできません。"
+  },
+  "达到优化标准": {
+    "en-US": "Optimization standard reached",
+    "ja-JP": "最適化基準に到達"
+  },
+  "达标": {
+    "en-US": "Target met",
+    "ja-JP": "達成"
+  },
+  "运行不属于当前会话": {
+    "en-US": "The run does not belong to the current session",
+    "ja-JP": "実行は現在のセッションに属していません"
+  },
+  "返回": {
+    "en-US": "Back",
+    "ja-JP": "戻る"
+  },
+  "返回 OrbitBuy 选购": {
+    "en-US": "Back to OrbitBuy shopping",
+    "ja-JP": "OrbitBuy の買い物に戻る"
+  },
+  "返回上限 K": {
+    "en-US": "Return limit K",
+    "ja-JP": "返却上限 K"
+  },
+  "返回型号与请求不一致，请核对网关映射后再保存。": {
+    "en-US": "The returned model does not match the request. Check the gateway mapping before saving.",
+    "ja-JP": "返却された型番がリクエストと一致しません。ゲートウェイのマッピングを確認してから保存してください。"
+  },
+  "返回型号标识一致。": {
+    "en-US": "Returned model identifier matches.",
+    "ja-JP": "返却された型番識別子は一致しています。"
+  },
+  "返回结果精度": {
+    "en-US": "Return result precision",
+    "ja-JP": "返却結果の精度"
+  },
+  "返回选购": {
+    "en-US": "Back to shopping",
+    "ja-JP": "買い物に戻る"
+  },
+  "还没有收藏": {
+    "en-US": "No favorites yet",
+    "ja-JP": "まだお気に入りがありません"
+  },
+  "还没有订单": {
+    "en-US": "No orders yet",
+    "ja-JP": "まだ注文がありません"
+  },
+  "还没有选购记录": {
+    "en-US": "No shopping history yet",
+    "ja-JP": "まだ購入履歴がありません"
+  },
+  "这份方案已更新或暂不可用，已恢复为直接提问。 ": {
+    "en-US": "This plan has been updated or is temporarily unavailable. Reverted to direct questions. ",
+    "ja-JP": "このプランは更新されたか一時的に利用できません。直接質問に戻しました。 "
+  },
+  "这份方案已过期，已保留你的需求。请确认后再发送。 ": {
+    "en-US": "This plan has expired. Your requirements have been kept. Please confirm before sending. ",
+    "ja-JP": "このプランは期限切れです。要件は保持されています。確認してから送信してください。 "
+  },
+  "这份方案已过期，正在刷新可用方案。 ": {
+    "en-US": "This plan has expired. Refreshing available plans. ",
+    "ja-JP": "このプランは期限切れです。利用可能なプランを更新しています。 "
+  },
+  "这条偏好已删除，下一轮不再带入。": {
+    "en-US": "This preference has been deleted and will not be carried into the next round.",
+    "ja-JP": "この好みは削除されました。次のラウンドには引き継がれません。"
+  },
+  "这次历史调用没有可展示的商品卡。": {
+    "en-US": "This past call has no product cards to display.",
+    "ja-JP": "この過去の呼び出しには表示できる商品カードがありません。"
+  },
+  "这次找到的好物": {
+    "en-US": "Great finds this time",
+    "ja-JP": "今回見つかった良い商品"
+  },
+  "这次检索没有返回符合条件的商品。可以调整预算、品类或配送地区，再一起看看。": {
+    "en-US": "This search returned no matching products. Try adjusting the budget, category, or delivery region, and we'll look together.",
+    "ja-JP": "この検索では条件に合う商品が見つかりませんでした。予算、カテゴリ、配送地域を調整して、一緒に見てみましょう。"
+  },
+  "这次请求未被接受，请调整内容后重试。": {
+    "en-US": "This request was not accepted. Please adjust the content and try again.",
+    "ja-JP": "このリクエストは受け付けられませんでした。内容を調整して再試行してください。"
+  },
+  "这次调用的商品记录暂时无法读取。": {
+    "en-US": "The product records for this call cannot be read at the moment.",
+    "ja-JP": "この呼び出しの商品記録は現在読み取れません。"
+  },
+  "这次，还没有合适的结果": {
+    "en-US": "No suitable results this time",
+    "ja-JP": "今回は適切な結果がありません"
+  },
+  "这里会保存每次执行，即使选择合并输出。": {
+    "en-US": "Every run is saved here, even if you choose merged output.",
+    "ja-JP": "ここには毎回の実行が保存されます。統合出力を選んでも同様です。"
+  },
+  "这里还没有长期偏好。": {
+    "en-US": "No long-term preferences here yet.",
+    "ja-JP": "ここにはまだ長期的な好みがありません。"
+  },
+  "这里还没有默认模型。": {
+    "en-US": "No default model here yet.",
+    "ja-JP": "ここにはまだデフォルトモデルがありません。"
+  },
+  "进行中": {
+    "en-US": "In progress",
+    "ja-JP": "進行中"
+  },
+  "违规数": {
+    "en-US": "Violation count",
+    "ja-JP": "違反数"
+  },
+  "违规率按“查询 × 约束维度”计算：至少一件违规商品即该维度失败。违规商品列按商品与约束对计数，分母为 0 时显示待测。": {
+    "en-US": "The violation rate is calculated per \"query × constraint dimension\": at least one violating product means that dimension fails. The violating product column counts product-constraint pairs; when the denominator is 0, it shows pending.",
+    "ja-JP": "違反率は「クエリ × 制約次元」ごとに計算されます。違反商品が1件でもあればその次元は失敗です。違反商品列は商品と制約のペアで数え、分母が0の場合は未測定と表示されます。"
+  },
+  "连接中断，操作结果尚未确定。": {
+    "en-US": "Connection interrupted; the operation result is not yet determined.",
+    "ja-JP": "接続が中断され、操作結果はまだ確定していません。"
+  },
+  "连接中断，正在恢复已保存的进度": {
+    "en-US": "Connection interrupted; restoring saved progress",
+    "ja-JP": "接続が中断されました。保存済みの進捗を復元しています"
+  },
+  "连接已中断，本轮尚未完成。请检查网络或服务后重试。": {
+    "en-US": "Connection interrupted; this round is not yet complete. Check your network or service and try again.",
+    "ja-JP": "接続が中断され、今回のラウンドは未完了です。ネットワークまたはサービスを確認して再試行してください。"
+  },
+  "连接已中断，本轮尚未完成。请重试。": {
+    "en-US": "Connection interrupted; this round is not yet complete. Please try again.",
+    "ja-JP": "接続が中断され、今回のラウンドは未完了です。再試行してください。"
+  },
+  "连接已恢复，继续接收本轮进度": {
+    "en-US": "Connection restored; continuing to receive this round's progress",
+    "ja-JP": "接続が復旧しました。今回のラウンドの進捗を受信し続けます"
+  },
+  "连接当前网关": {
+    "en-US": "Connect current gateway",
+    "ja-JP": "現在のゲートウェイに接続"
+  },
+  "连接恢复未完成，可再次打开本段历史重试。": {
+    "en-US": "Connection recovery incomplete; reopen this history segment to retry.",
+    "ja-JP": "接続の復旧が完了していません。この履歴セグメントを再度開いて再試行できます。"
+  },
+  "连接测试失败，请检查配置后重试。": {
+    "en-US": "Connection test failed. Check the configuration and try again.",
+    "ja-JP": "接続テストに失敗しました。設定を確認して再試行してください。"
+  },
+  "连接测试通过 · 尚未保存": {
+    "en-US": "Connection test passed · not yet saved",
+    "ja-JP": "接続テスト成功 · 未保存"
+  },
+  "连接被服务拒绝，请检查访问配置后重试。": {
+    "en-US": "Connection refused by the service. Check your access configuration and try again.",
+    "ja-JP": "サービスへの接続が拒否されました。アクセス設定を確認して再試行してください。"
+  },
+  "选一个场景，再补充你的预算与偏好。直接描述需求，也会自动匹配。": {
+    "en-US": "Pick a scenario, then add your budget and preferences. You can also just describe your needs and we'll match automatically.",
+    "ja-JP": "シーンを選び、予算と好みを追加してください。要望を直接説明するだけでも自動でマッチングします。"
+  },
+  "选好方案后，说说这次的实际需求。": {
+    "en-US": "Once you've chosen a plan, tell us your actual needs for this time.",
+    "ja-JP": "プランを選んだら、今回の実際の要望を教えてください。"
+  },
+  "选择": {
+    "en-US": "Select",
+    "ja-JP": "選択"
+  },
+  "选择候选": {
+    "en-US": "Select candidate",
+    "ja-JP": "候補を選択"
+  },
+  "选择基线": {
+    "en-US": "Select baseline",
+    "ja-JP": "ベースラインを選択"
+  },
+  "选择官方参考配置，或接入你自己的模型服务。": {
+    "en-US": "Choose the official reference configuration, or connect your own model service.",
+    "ja-JP": "公式のリファレンス設定を選ぶか、独自のモデルサービスに接続してください。"
+  },
+  "选择方案": {
+    "en-US": "Select plan",
+    "ja-JP": "プランを選択"
+  },
+  "选择模型": {
+    "en-US": "Select model",
+    "ja-JP": "モデルを選択"
+  },
+  "选择模型来源": {
+    "en-US": "Select model source",
+    "ja-JP": "モデルソースを選択"
+  },
+  "选择模型，已选": {
+    "en-US": "Select model, selected",
+    "ja-JP": "モデルを選択、選択済み"
+  },
+  "选择规格": {
+    "en-US": "Select specification",
+    "ja-JP": "仕様を選択"
+  },
+  "选择选购方案": {
+    "en-US": "Select shopping plan",
+    "ja-JP": "購入プランを選択"
+  },
+  "选择选购方案：{0}": {
+    "en-US": "Select shopping plan: {0}",
+    "ja-JP": "購入プランを選択：{0}"
+  },
+  "选购助手": {
+    "en-US": "Shopping assistant",
+    "ja-JP": "購入アシスタント"
+  },
+  "选购对话": {
+    "en-US": "Shopping conversation",
+    "ja-JP": "購入会話"
+  },
+  "选购方案": {
+    "en-US": "Shopping plan",
+    "ja-JP": "購入プラン"
+  },
+  "选购方案刚刚更新，请刷新后再选。": {
+    "en-US": "The shopping plan was just updated. Please refresh and select again.",
+    "ja-JP": "購入プランが更新されました。更新してから再度選択してください。"
+  },
+  "选购方案暂时无法加载，仍可直接描述需求。": {
+    "en-US": "The shopping plan can't be loaded right now, but you can still describe your needs directly.",
+    "ja-JP": "購入プランを読み込めませんが、要望を直接説明することは可能です。"
+  },
+  "选购方案暂时无法加载，可直接描述需求。": {
+    "en-US": "The shopping plan can't be loaded right now. You can describe your needs directly.",
+    "ja-JP": "購入プランを読み込めません。要望を直接説明できます。"
+  },
+  "选购方案未能读取": {
+    "en-US": "Failed to read the shopping plan",
+    "ja-JP": "購入プランを読み取れませんでした"
+  },
+  "选购方案条目格式无效": {
+    "en-US": "Invalid shopping plan item format",
+    "ja-JP": "購入プラン項目の形式が無効です"
+  },
+  "选购方案清单格式无效": {
+    "en-US": "Invalid shopping plan list format",
+    "ja-JP": "購入プランリストの形式が無効です"
+  },
+  "选购方案筹备中，可直接描述需求": {
+    "en-US": "Shopping plan is being prepared. You can describe your needs directly.",
+    "ja-JP": "購入プランを準備中です。要望を直接説明できます。"
+  },
+  "选购方案菜单": {
+    "en-US": "Shopping plan menu",
+    "ja-JP": "購入プランメニュー"
+  },
+  "选购服务暂时不可用，请稍后重试。": {
+    "en-US": "Shopping service is temporarily unavailable. Please try again later.",
+    "ja-JP": "購入サービスは一時的に利用できません。しばらくしてから再試行してください。"
+  },
+  "选购环境已更新，正在保留旧记录并继续查询": {
+    "en-US": "Shopping environment updated. Keeping old records and continuing the query.",
+    "ja-JP": "購入環境が更新されました。古い記録を保持してクエリを続行します。"
+  },
+  "选购记录": {
+    "en-US": "Shopping records",
+    "ja-JP": "購入記録"
+  },
+  "选购过程 {0}": {
+    "en-US": "Shopping process {0}",
+    "ja-JP": "購入プロセス {0}"
+  },
+  "逐查询差异": {
+    "en-US": "Query differences one by one",
+    "ja-JP": "クエリごとに差異を確認"
+  },
+  "避免": {
+    "en-US": "Avoid",
+    "ja-JP": "避ける"
+  },
+  "避免 · 不想要的东西": {
+    "en-US": "Avoid · Things you don't want",
+    "ja-JP": "避ける · 不要なもの"
+  },
+  "邮政编码": {
+    "en-US": "Postal code",
+    "ja-JP": "郵便番号"
+  },
+  "部分步骤未完成": {
+    "en-US": "Some steps not completed",
+    "ja-JP": "一部のステップが未完了です"
+  },
+  "配置上限": {
+    "en-US": "Configuration limit",
+    "ja-JP": "設定上限"
+  },
+  "配置指纹": {
+    "en-US": "Configuration fingerprint",
+    "ja-JP": "設定フィンガープリント"
+  },
+  "配置选项暂不可用": {
+    "en-US": "Configuration options temporarily unavailable",
+    "ja-JP": "設定オプションは一時的に利用できません"
+  },
+  "配送": {
+    "en-US": "Delivery",
+    "ja-JP": "配送"
+  },
+  "配送地区": {
+    "en-US": "Delivery region",
+    "ja-JP": "配送地域"
+  },
+  "配送至 ": {
+    "en-US": "Deliver to ",
+    "ja-JP": "配送先 "
+  },
+  "配送至 {0}": {
+    "en-US": "Deliver to {0}",
+    "ja-JP": "配送先 {0}"
+  },
+  "配送范围待核验": {
+    "en-US": "Delivery area pending verification",
+    "ja-JP": "配送範囲は確認待ちです"
+  },
+  "重复次数": {
+    "en-US": "Repeat count",
+    "ja-JP": "繰り返し回数"
+  },
+  "重新加载": {
+    "en-US": "Reload",
+    "ja-JP": "再読み込み"
+  },
+  "重新执行": {
+    "en-US": "Run again",
+    "ja-JP": "再実行"
+  },
+  "重新读取": {
+    "en-US": "Read again",
+    "ja-JP": "再読み取り"
+  },
+  "重试": {
+    "en-US": "Retry",
+    "ja-JP": "再試行"
+  },
+  "重试连接": {
+    "en-US": "Retry connection",
+    "ja-JP": "接続を再試行"
+  },
+  "错过执行": {
+    "en-US": "Missed execution",
+    "ja-JP": "実行を逃しました"
+  },
+  "长期偏好": {
+    "en-US": "Long-term preferences",
+    "ja-JP": "長期的な好み"
+  },
+  "长期偏好记忆暂不可用，仍可直接在对话中说明本次要求": {
+    "en-US": "Long-term preference memory is temporarily unavailable. You can still state this request directly in the conversation.",
+    "ja-JP": "長期的な好みの記憶は一時的に利用できません。今回の要望は会話で直接伝えられます。"
+  },
+  "随时开始新的选购": {
+    "en-US": "Start a new shopping session anytime",
+    "ja-JP": "いつでも新しい購入を開始"
+  },
+  "隐藏": {
+    "en-US": "Hide",
+    "ja-JP": "非表示"
+  },
+  "隐藏 API Key": {
+    "en-US": "Hide API Key",
+    "ja-JP": "API Keyを非表示"
+  },
+  "需求澄清": {
+    "en-US": "Requirement clarification",
+    "ja-JP": "要件の明確化"
+  },
+  "需求较长，请稍作精简后再选择方案。 ": {
+    "en-US": "The request is a bit long; please shorten it slightly before choosing a plan.",
+    "ja-JP": "ご要望がやや長いため、少し簡潔にしてからプランを選択してください。"
+  },
+  "页面保存": {
+    "en-US": "Save page",
+    "ja-JP": "ページを保存"
+  },
+  "预算": {
+    "en-US": "Budget",
+    "ja-JP": "予算"
+  },
+  "预算100元以内，找适合短途出行的背包。": {
+    "en-US": "Within a budget of 100 CNY, find a backpack suitable for short trips.",
+    "ja-JP": "予算100元以内で、短距離の移動に適したバックパックを探してください。"
+  },
+  "预算、材质和配送分别检查；缺少正例覆盖不能判定通过。": {
+    "en-US": "Check budget, material, and delivery separately; passing cannot be determined without positive-case coverage.",
+    "ja-JP": "予算・素材・配送をそれぞれ確認する。正例のカバレッジがない場合は合格と判定できません。"
+  },
+  "预算、材质和配送逐项核对；无覆盖不能判定通过。": {
+    "en-US": "Check budget, material, and delivery item by item; passing cannot be determined without coverage.",
+    "ja-JP": "予算・素材・配送を項目ごとに確認する。カバレッジがない場合は合格と判定できません。"
+  },
+  "预算想再少一点，": {
+    "en-US": "I'd like the budget to be a bit lower,",
+    "ja-JP": "予算をもう少し抑えたいので、"
+  },
+  "预设保留 8192 个输出 token，不直接使用官方理论最大输出。": {
+    "en-US": "By default, 8192 output tokens are reserved; the official theoretical maximum output is not used directly.",
+    "ja-JP": "デフォルトでは出力トークンを8192個確保し、公式の理論最大出力をそのまま使用しません。"
+  },
+  "高": {
+    "en-US": "High",
+    "ja-JP": "高"
+  },
+  "默认": {
+    "en-US": "Default",
+    "ja-JP": "デフォルト"
+  },
+  "默认值 · 尚无统计": {
+    "en-US": "Default value · No statistics yet",
+    "ja-JP": "デフォルト値・統計なし"
+  },
+  "默认思考设置": {
+    "en-US": "Default thinking settings",
+    "ja-JP": "デフォルトの思考設定"
+  },
+  "默认本次上限": {
+    "en-US": "Default limit for this run",
+    "ja-JP": "今回のデフォルト上限"
+  },
+  "默认模型": {
+    "en-US": "Default model",
+    "ja-JP": "デフォルトモデル"
+  },
+  "默认模型列表": {
+    "en-US": "Default model list",
+    "ja-JP": "デフォルトモデル一覧"
+  },
+  "（该批共 {0} 件）": {
+    "en-US": "({0} items in this batch)",
+    "ja-JP": "（このバッチは計{0}件）"
+  },
+  "，sku_id={0}，规格={1}": {
+    "en-US": ", sku_id={0}, spec={1}",
+    "ja-JP": "、sku_id={0}、仕様={1}"
+  },
+  "，再选一件比比看": {
+    "en-US": ", pick one more to compare",
+    "ja-JP": "、もう1つ選んで比較してみましょう"
+  },
+  "，分页或不完整的记录未展示。": {
+    "en-US": ", paginated or incomplete records are not shown.",
+    "ja-JP": "、ページ分割または不完全なレコードは表示されていません。"
+  },
+  "，本次上限": {
+    "en-US": ", limit for this run",
+    "ja-JP": "、今回の上限"
+  },
+  "；开启思考 ": {
+    "en-US": "; enable thinking ",
+    "ja-JP": "；思考を有効化 "
+  },
+  "AG-UI 首版传输：直接在 API 进程执行，提供标准 POST + SSE。": {
+    "en-US": "AG-UI first transport: executes directly in the API process, providing standard POST + SSE.",
+    "ja-JP": "AG-UI初版トランスポート：APIプロセス内で直接実行し、標準のPOST + SSEを提供。"
+  },
+  "只提取本轮用户文本；历史由后端 AgentState 维护，客户端 state 不能覆盖业务事实。": {
+    "en-US": "Only extract this turn's user text; history is maintained by the backend AgentState, and client state cannot override business facts.",
+    "ja-JP": "今回のユーザーテキストのみを抽出。履歴はバックエンドのAgentStateが管理し、クライアントstateで業務事実を上書きできない。"
+  },
+  "HTTP 取消传播到正在执行的 Agent；不留下后台生产任务。": {
+    "en-US": "HTTP cancellation propagates to the running Agent; no background production tasks are left behind.",
+    "ja-JP": "HTTPキャンセルは実行中のAgentに伝播し、バックグラウンドの本番タスクを残さない。"
+  },
+  "单次确认过多": {
+    "en-US": "Too many confirmations in a single request",
+    "ja-JP": "1回の確認が多すぎます"
+  },
+  "threadId 和 runId 不能为空": {
+    "en-US": "threadId and runId cannot be empty",
+    "ja-JP": "threadIdとrunIdは空にできません"
+  },
+  "当前接口只执行后端工具，尚未支持前端 tools": {
+    "en-US": "This endpoint only executes backend tools; frontend tools are not yet supported",
+    "ja-JP": "現在のエンドポイントはバックエンドツールのみ実行し、フロントエンドtoolsは未対応です"
+  },
+  "messages 最后一项必须是本轮 user 消息": {
+    "en-US": "The last item in messages must be this turn's user message",
+    "ja-JP": "messagesの最後の項目は今回のuserメッセージである必要があります"
+  },
+  "当前接口需要非空的纯文本 user 消息": {
+    "en-US": "This endpoint requires a non-empty plain-text user message",
+    "ja-JP": "現在のエンドポイントには空でないプレーンテキストのuserメッセージが必要です"
+  },
+  "forwardedProps.buyerId 不能为空": {
+    "en-US": "forwardedProps.buyerId cannot be empty",
+    "ja-JP": "forwardedProps.buyerIdは空にできません"
+  },
+  "确认只接受 approved 布尔值": {
+    "en-US": "Confirmation only accepts an approved boolean",
+    "ja-JP": "確認はapprovedのブール値のみ受け付けます"
+  },
+  "本轮执行已中断": {
+    "en-US": "This turn's execution was interrupted",
+    "ja-JP": "今回の実行は中断されました"
+  },
+  "AG-UI 执行已中断：thread=%s run=%s": {
+    "en-US": "AG-UI execution interrupted: thread=%s run=%s",
+    "ja-JP": "AG-UI実行が中断されました：thread=%s run=%s"
+  },
+  "AG-UI 执行失败：run=%s": {
+    "en-US": "AG-UI execution failed: run=%s",
+    "ja-JP": "AG-UI実行に失敗しました：run=%s"
+  },
+  "本轮服务暂时未能完成请求，请重试。": {
+    "en-US": "The service could not complete this request right now. Please try again.",
+    "ja-JP": "今回のリクエストは現在完了できませんでした。もう一度お試しください。"
+  },
+  "持久运行日志尚未配置": {
+    "en-US": "Persistent run logging is not yet configured",
+    "ja-JP": "永続的な実行ログはまだ設定されていません"
+  },
+  "读取已发布选购方案失败：%s": {
+    "en-US": "Failed to read the published shopping plan: %s",
+    "ja-JP": "公開済みの購入プランの読み込みに失敗しました：%s"
+  },
+  "Last-Event-ID 与当前运行不匹配": {
+    "en-US": "Last-Event-ID does not match the current run",
+    "ja-JP": "Last-Event-IDが現在の実行と一致しません"
+  },
+  "选购方案刚刚更新，请刷新列表后重试。": {
+    "en-US": "The shopping plan was just updated. Please refresh the list and try again.",
+    "ja-JP": "購入プランが更新されました。リストを更新してから再試行してください。"
+  },
+  "选购方案暂时无法读取，请稍后刷新。": {
+    "en-US": "The shopping plan is temporarily unavailable. Please refresh later.",
+    "ja-JP": "購入プランは一時的に読み込めません。後で更新してください。"
+  },
+  "兼容旧导入；网页与自动化共用应用层持久执行入口。": {
+    "en-US": "Compatible with legacy imports; web and automation share the application-layer persistent execution entry point.",
+    "ja-JP": "旧インポートと互換。Webと自動化はアプリケーション層の永続実行エントリを共有します。"
+  },
+  "买家自动化接口。状态变化用 revision 与请求幂等键保护。": {
+    "en-US": "Buyer automation API. State changes are protected by revision and request idempotency keys.",
+    "ja-JP": "バイヤー自動化API。状態変更はrevisionとリクエスト冪等キーで保護されます。"
+  },
+  "自动化服务尚未配置": {
+    "en-US": "Automation service is not yet configured",
+    "ja-JP": "自動化サービスはまだ設定されていません"
+  },
+  "编辑需要 expected_revision": {
+    "en-US": "Editing requires expected_revision",
+    "ja-JP": "編集にはexpected_revisionが必要です"
+  },
+  "买家直接维护个人 Skill 与偏好；所有入口共用身份校验。": {
+    "en-US": "Buyers directly maintain their personal Skills and preferences; all entry points share identity verification.",
+    "ja-JP": "バイヤーは個人のSkillと好みを直接管理し、すべてのエントリで同一の本人確認を共有します。"
+  },
+  "编辑需要原版本": {
+    "en-US": "Editing requires the original version",
+    "ja-JP": "編集には元のバージョンが必要です"
+  },
+  "编辑需要记忆 ID 和版本，请刷新页面": {
+    "en-US": "Editing requires the memory ID and version. Please refresh the page.",
+    "ja-JP": "編集にはメモリIDとバージョンが必要です。ページを更新してください。"
+  },
+  "删除需要记忆 ID 和版本，请刷新页面": {
+    "en-US": "Deleting requires the memory ID and version. Please refresh the page.",
+    "ja-JP": "削除にはメモリIDとバージョンが必要です。ページを更新してください。"
+  },
+  "原偏好已变化，请刷新后再编辑": {
+    "en-US": "The original preference has changed. Please refresh before editing.",
+    "ja-JP": "元の好みが変更されました。更新してから編集してください。"
+  },
+  "订单意向确认资源。决定只来自明确的 HTTP 用户动作，不接受模型代行。": {
+    "en-US": "Order intent confirmation resource. Decisions come only from explicit HTTP user actions and are never made on the model's behalf.",
+    "ja-JP": "意向注文確認リソース。決定は明示的なHTTPユーザー操作のみに由来し、モデルによる代行は受け付けません。"
+  },
+  "会话事件订阅：先核验签名主体和持久 owner，再接收对应会话的事件。": {
+    "en-US": "Session event subscription: verify the signing principal and persistent owner first, then receive events for the corresponding session.",
+    "ja-JP": "セッションイベント購読：署名主体と永続ownerを先に検証してから、該当セッションのイベントを受信します。"
+  },
+  "订阅需要身份与会话": {
+    "en-US": "Subscription requires identity and session",
+    "ja-JP": "購読にはIDとセッションが必要です"
+  },
+  "缺少 shopping_session_id": {
+    "en-US": "Missing shopping_session_id",
+    "ja-JP": "shopping_session_idがありません"
+  },
+  "会话订阅身份校验失败": {
+    "en-US": "Session subscription identity verification failed",
+    "ja-JP": "セッション購読の本人確認に失敗しました"
+  },
+  "买家上下文维护 API，操作独立于请求连接。": {
+    "en-US": "Buyer context maintenance API; operations are independent of the request connection.",
+    "ja-JP": "バイヤーコンテキスト管理API。操作はリクエスト接続から独立しています。"
+  },
+  "上下文整理需要数据库会话存储": {
+    "en-US": "Context assembly requires database session storage",
+    "ja-JP": "コンテキスト整理にはデータベースのセッションストレージが必要です"
+  },
+  "会话 ID，缺省则新建会话": {
+    "en-US": "Session ID; a new session is created if omitted",
+    "ja-JP": "セッションID。省略時は新しいセッションを作成します"
+  },
+  "买家 ID": {
+    "en-US": "Buyer ID",
+    "ja-JP": "バイヤーID"
+  },
+  "重试时复用；新意图使用新 ID": {
+    "en-US": "Reused on retry; new intents use a new ID",
+    "ja-JP": "リトライ時は再利用し、新しい意図には新しいIDを使用します"
+  },
+  "买家自然语言购物意图": {
+    "en-US": "Buyer's natural-language shopping intent",
+    "ja-JP": "バイヤーの自然言語による買い物の意図"
+  },
+  "收藏按买家隔离读取与维护。": {
+    "en-US": "Favorites are read and maintained per buyer.",
+    "ja-JP": "お気に入りはバイヤーごとに分離して読み取り・管理します。"
+  },
+  "收藏商品信息无效": {
+    "en-US": "Invalid favorite product information",
+    "ja-JP": "お気に入り商品情報が無効です"
+  },
+  "所有买家入口共用身份与会话归属检查；严格模式不接收 query 中的 token。": {
+    "en-US": "All buyer entry points share identity and session ownership checks; strict mode does not accept tokens in the query.",
+    "ja-JP": "すべてのバイヤー入口は同一のIDとセッション帰属チェックを共有します。厳格モードではクエリ内のトークンを受け付けません。"
+  },
+  "全进程聚合指标只对服务端明确授权的签名主体开放。": {
+    "en-US": "Process-wide aggregate metrics are only available to server-authorized signed principals.",
+    "ja-JP": "プロセス全体の集計指標は、サーバーが明示的に認可した署名済み主体にのみ公開されます。"
+  },
+  "任务归属存储未就绪": {
+    "en-US": "Task ownership storage is not ready",
+    "ja-JP": "タスク帰属ストレージが未準備です"
+  },
+  "运维指标接口未启用": {
+    "en-US": "Operations metrics endpoint is not enabled",
+    "ja-JP": "運用指標エンドポイントが有効になっていません"
+  },
+  "运维指标要求配置严格签名身份": {
+    "en-US": "Operations metrics require a configured strict signed identity",
+    "ja-JP": "運用指標には厳格な署名済みIDの設定が必要です"
+  },
+  "该主体没有运维指标读取权限": {
+    "en-US": "This principal does not have permission to read operations metrics",
+    "ja-JP": "この主体には運用指標の読み取り権限がありません"
+  },
+  "请求买家与签名身份不一致": {
+    "en-US": "Requested buyer does not match the signed identity",
+    "ja-JP": "リクエストされたバイヤーと署名済みIDが一致しません"
+  },
+  "会话归属存储未就绪": {
+    "en-US": "Session ownership storage is not ready",
+    "ja-JP": "セッション帰属ストレージが未準備です"
+  },
+  "需要有效的运维读取凭证": {
+    "en-US": "A valid operations read credential is required",
+    "ja-JP": "有効な運用読み取り資格情報が必要です"
+  },
+  "需要有效的买家身份凭证": {
+    "en-US": "A valid buyer identity credential is required",
+    "ja-JP": "有効なバイヤーID資格情報が必要です"
+  },
+  "模型目录和连接管理；客户端提交选择，运行快照只由服务端生成。": {
+    "en-US": "Model catalog and connection management; clients submit selections, and runtime snapshots are generated only by the server.",
+    "ja-JP": "モデルカタログと接続管理。クライアントは選択を送信し、実行時スナップショットはサーバーのみが生成します。"
+  },
+  "自定义网关": {
+    "en-US": "Custom gateway",
+    "ja-JP": "カスタムゲートウェイ"
+  },
+  "模型配置字段、类型或取值无效，请检查后重试": {
+    "en-US": "Invalid model configuration field, type, or value; please check and retry",
+    "ja-JP": "モデル設定のフィールド、型、または値が無効です。確認して再試行してください"
+  },
+  "模型选择需要数据库会话存储": {
+    "en-US": "Model selection requires database session storage",
+    "ja-JP": "モデル選択にはデータベースのセッションストレージが必要です"
+  },
+  "模型连接管理只允许本机演示或授权管理员访问": {
+    "en-US": "Model connection management is only accessible to local demos or authorized administrators",
+    "ja-JP": "モデル接続管理はローカルデモまたは認可された管理者のみがアクセスできます"
+  },
+  "公开商品目录的展示媒体；不参与模型输入，也不回写历史商品快照。": {
+    "en-US": "Display media for the public product catalog; not used as model input and not written back to historical product snapshots.",
+    "ja-JP": "公開商品カタログの表示用メディア。モデル入力には使用せず、過去の商品スナップショットにも書き戻しません。"
+  },
+  "只读检索评测仪表盘：展示已有证据，不启动模型、任务或业务存储。": {
+    "en-US": "Read-only retrieval evaluation dashboard: shows existing evidence and does not start models, tasks, or business storage.",
+    "ja-JP": "読み取り専用の検索評価ダッシュボード。既存のエビデンスを表示し、モデル、タスク、業務ストレージは起動しません。"
+  },
+  "正式收益必须相对当前冻结 B0；诊断对照可以使用独立检索链路。": {
+    "en-US": "Official gains must be relative to the current frozen B0; diagnostic comparisons may use an independent retrieval pipeline.",
+    "ja-JP": "正式な収益は現在の凍結B0を基準とする必要があります。診断用の比較には独立した検索パイプラインを使用できます。"
+  },
+  "只投影标准定义字段；不把附加日志或未知配置经仪表盘透传。": {
+    "en-US": "Only standard defined fields are projected; additional logs or unknown configurations are not passed through the dashboard.",
+    "ja-JP": "標準定義フィールドのみを投影します。追加ログや未知の設定をダッシュボード経由で透過させません。"
+  },
+  "仅用于本机仪表盘预览，不执行完整业务服务的生命周期。": {
+    "en-US": "For local dashboard preview only; does not run the full business service lifecycle.",
+    "ja-JP": "ローカルダッシュボードのプレビュー専用です。業務サービスの完全なライフサイクルは実行しません。"
+  },
+  "需要两份可比较的评测报告；冻结定义不代表已运行基线": {
+    "en-US": "Two comparable evaluation reports are required; a frozen definition does not mean a baseline has been run",
+    "ja-JP": "比較可能な評価レポートが2件必要です。凍結定義はベースラインが実行済みであることを意味しません"
+  },
+  "缺少当前冻结 B0 定义，无法确认基线报告与当前冻结 B0 一致": {
+    "en-US": "Current frozen B0 definition is missing; cannot confirm the baseline report matches the current frozen B0",
+    "ja-JP": "現在の凍結B0定義が欠落しているため、ベースラインレポートが現在の凍結B0と一致することを確認できません"
+  },
+  "OrbitBuy 检索评测只读预览": {
+    "en-US": "OrbitBuy retrieval evaluation read-only preview",
+    "ja-JP": "OrbitBuy 検索評価の読み取り専用プレビュー"
+  },
+  "检索评测标准缺失或格式无效": {
+    "en-US": "Retrieval evaluation standard is missing or invalid",
+    "ja-JP": "検索評価標準が欠落しているか無効です"
+  },
+  "冻结基线定义缺失或格式无效": {
+    "en-US": "Frozen baseline definition is missing or invalid",
+    "ja-JP": "凍結ベースライン定義が欠落しているか無効です"
+  },
+  "所选评测报告不存在或不可用": {
+    "en-US": "The selected evaluation report does not exist or is unavailable",
+    "ja-JP": "選択した評価レポートが存在しないか利用できません"
+  },
+  "基线报告与当前冻结 B0 不一致：": {
+    "en-US": "Baseline report does not match the current frozen B0: ",
+    "ja-JP": "ベースラインレポートが現在の凍結B0と一致しません："
+  },
+  "评测标识格式无效": {
+    "en-US": "Invalid evaluation ID format",
+    "ja-JP": "評価IDの形式が無効です"
+  },
+  "所选报告无法安全比较": {
+    "en-US": "The selected reports cannot be safely compared",
+    "ja-JP": "選択したレポートは安全に比較できません"
+  },
+  "报告 ": {
+    "en-US": "Report ",
+    "ja-JP": "レポート "
+  },
+  " 校验失败，已排除": {
+    "en-US": " validation failed and was excluded",
+    "ja-JP": " の検証に失敗したため除外しました"
+  },
+  "请求 ID 标识一次提交；同一句话的新提交可以形成新的任务。": {
+    "en-US": "The request ID identifies one submission; a new submission of the same sentence can form a new task.",
+    "ja-JP": "リクエストIDは1回の送信を識別します。同じ文の新しい送信は新しいタスクを形成できます。"
+  },
+  "CORS 需要在 app 构造期就确定，此处单独读一次配置。": {
+    "en-US": "CORS must be determined at app construction time, so the configuration is read separately here.",
+    "ja-JP": "CORSはアプリ構築時に確定する必要があるため、ここで設定を別途読み取ります。"
+  },
+  "把其他进程（worker）广播的事件转发给本进程的 WS 订阅者。": {
+    "en-US": "Forward events broadcast by other processes (workers) to WS subscribers in this process.",
+    "ja-JP": "他のプロセス（ワーカー）がブロードキャストしたイベントを、このプロセスのWS購読者に転送します。"
+  },
+  "依赖连通性一并报出，避免\"进程活着但存储已挂\"被当成健康。": {
+    "en-US": "Dependency connectivity is reported together to avoid treating \"process alive but storage down\" as healthy.",
+    "ja-JP": "「プロセスは生きているがストレージが停止している」状態を正常とみなさないよう、依存関係の接続性も併せて報告します。"
+  },
+  "启动时实际依赖检查的快照；不把进程存活宣称为全部能力可用。": {
+    "en-US": "Snapshot of actual dependency checks at startup; process liveness is not claimed as full capability availability.",
+    "ja-JP": "起動時の実際の依存関係チェックのスナップショット。プロセスの生存を全機能の可用性として主張しません。"
+  },
+  "[error] 处理超时，请稍后重试或改用异步接口查询任务状态": {
+    "en-US": "[error] Processing timed out; please retry later or use the async endpoint to query task status",
+    "ja-JP": "[error] 処理がタイムアウトしました。後で再試行するか、非同期エンドポイントでタスク状態を照会してください"
+  },
+  "OrbitBuy 跨境电商 Agent": {
+    "en-US": "OrbitBuy Cross-border E-commerce Agent",
+    "ja-JP": "OrbitBuy 越境ECエージェント"
+  },
+  "事件背板监听中断：%s": {
+    "en-US": "Event backplane listener interrupted: %s",
+    "ja-JP": "イベントバックプレーンリスナーが中断されました：%s"
+  },
+  "服务尚未就绪": {
+    "en-US": "Service is not ready yet",
+    "ja-JP": "サービスはまだ準備できていません"
+  },
+  "队列未启用，请使用 /commerce/intents": {
+    "en-US": "Queue is not enabled; please use /commerce/intents",
+    "ja-JP": "キューが有効になっていません。/commerce/intents を使用してください"
+  },
+  "队列未启用": {
+    "en-US": "Queue is not enabled",
+    "ja-JP": "キューが有効になっていません"
+  },
+  "任务不存在或已过期：": {
+    "en-US": "Task does not exist or has expired: ",
+    "ja-JP": "タスクが存在しないか期限切れです："
+  },
+  "表单动作仅保存本次需求；订单与记忆继续使用各自的确认入口。": {
+    "en-US": "Form actions only save the current request; orders and memory continue to use their respective confirmation entry points.",
+    "ja-JP": "フォームアクションは今回のリクエストのみを保存します。注文とメモリは引き続きそれぞれの確認入口を使用します。"
+  },
+  "固定选购表单入口已停用，请通过 Agent 调用澄清工具生成本次问题": {
+    "en-US": "The fixed purchase form entry point is disabled; please call the clarification tool via the Agent to generate this question",
+    "ja-JP": "固定の購入フォーム入口は無効です。Agent経由で明確化ツールを呼び出して今回の質問を生成してください"
+  },
+  "动作与表单不匹配": {
+    "en-US": "Action does not match the form",
+    "ja-JP": "アクションとフォームが一致しません"
+  },
+  "动作包含多余参数": {
+    "en-US": "Action contains extra parameters",
+    "ja-JP": "アクションに余分なパラメータが含まれています"
+  },
+  "工具活动的展示白名单；禁止用任意输入/输出截断充当安全摘要。": {
+    "en-US": "Display allowlist for tool activity; arbitrary input/output truncation must not be used as a security summary.",
+    "ja-JP": "ツールアクティビティの表示許可リスト。任意の入出力の切り詰めを安全な要約として使用してはなりません。"
+  },
+  "框架 SUCCESS 之外，识别工具明确返回的失败，绝不透传错误原文。": {
+    "en-US": "Beyond framework SUCCESS, explicitly identify failures returned by tools; never pass through raw error text.",
+    "ja-JP": "フレームワークのSUCCESS以外では、ツールが明示的に返した失敗を識別し、エラーの原文をそのまま伝えない。"
+  },
+  "已准备确认卡，等待你的决定。": {
+    "en-US": "Confirmation card is ready; awaiting your decision.",
+    "ja-JP": "確認カードを準備しました。ご判断をお待ちしています。"
+  },
+  "工具执行已完成。": {
+    "en-US": "Tool execution completed.",
+    "ja-JP": "ツールの実行が完了しました。"
+  },
+  "商品": {
+    "en-US": "Product",
+    "ja-JP": "商品"
+  },
+  "规格": {
+    "en-US": "Specification",
+    "ja-JP": "仕様"
+  },
+  "配送国家": {
+    "en-US": "Delivery country",
+    "ja-JP": "配送国"
+  },
+  "币种": {
+    "en-US": "Currency",
+    "ja-JP": "通貨"
+  },
+  "尚未取得最终结果。": {
+    "en-US": "No final result yet.",
+    "ja-JP": "まだ最終結果を取得していません。"
+  },
+  "检索返回 ": {
+    "en-US": "Search returned ",
+    "ja-JP": "検索結果は "
+  },
+  " 件商品。": {
+    "en-US": " products.",
+    "ja-JP": " 件の商品です。"
+  },
+  "返回 ": {
+    "en-US": "Returned ",
+    "ja-JP": "返却 "
+  },
+  " 条选购资料。": {
+    "en-US": " shopping reference items.",
+    "ja-JP": " 件の商品選び資料。"
+  },
+  "找到 ": {
+    "en-US": "Found ",
+    "ja-JP": "見つかりました "
+  },
+  " 条审核建议。": {
+    "en-US": " review suggestions.",
+    "ja-JP": " 件の審査提案。"
+  },
+  "预算上限 ": {
+    "en-US": "Budget cap ",
+    "ja-JP": "予算上限 "
+  },
+  "最多 ": {
+    "en-US": "At most ",
+    "ja-JP": "最大 "
+  },
+  "选购方案读取结束。": {
+    "en-US": "Shopping plan reading finished.",
+    "ja-JP": "商品選びプランの読み取りが終了しました。"
+  },
+  "购物偏好保存操作已完成。": {
+    "en-US": "Shopping preference save completed.",
+    "ja-JP": "買い物の好みの保存が完了しました。"
+  },
+  "购物偏好删除操作已完成。": {
+    "en-US": "Shopping preference delete completed.",
+    "ja-JP": "買い物の好みの削除が完了しました。"
+  },
+  "购物偏好修改操作已完成。": {
+    "en-US": "Shopping preference update completed.",
+    "ja-JP": "買い物の好みの変更が完了しました。"
+  },
+  "订单查询已完成。": {
+    "en-US": "Order query completed.",
+    "ja-JP": "注文照会が完了しました。"
+  },
+  "专家任务已返回。": {
+    "en-US": "Expert task returned.",
+    "ja-JP": "エキスパートタスクが返却されました。"
+  },
+  " 条资料": {
+    "en-US": " reference items",
+    "ja-JP": " 件の資料"
+  },
+  "工具执行失败，请查看本轮回复或重试。": {
+    "en-US": "Tool execution failed. Please check this turn's reply or retry.",
+    "ja-JP": "ツールの実行に失敗しました。今回の返信を確認するか、再試行してください。"
+  },
+  "此操作已取消或被拒绝。": {
+    "en-US": "This operation was canceled or rejected.",
+    "ja-JP": "この操作はキャンセルまたは拒否されました。"
+  },
+  "执行中断，尚未取得完整结果。": {
+    "en-US": "Execution interrupted; no complete result yet.",
+    "ja-JP": "実行が中断され、完全な結果はまだ取得できていません。"
+  },
+  "工具仍在执行，尚未取得最终结果。": {
+    "en-US": "Tool is still running; no final result yet.",
+    "ja-JP": "ツールはまだ実行中で、最終結果はまだ取得できていません。"
+  },
+  "购物偏好操作；具体内容见确认卡": {
+    "en-US": "Shopping preference operation; see confirmation card for details",
+    "ja-JP": "買い物の好みの操作。詳細は確認カードを参照"
+  },
+  "商品检索专家": {
+    "en-US": "Product search expert",
+    "ja-JP": "商品検索エキスパート"
+  },
+  "交易专家": {
+    "en-US": "Transaction expert",
+    "ja-JP": "取引エキスパート"
+  },
+  "方案版本 ": {
+    "en-US": "Plan version ",
+    "ja-JP": "プランバージョン "
+  },
+  "订单操作；详情见订单卡": {
+    "en-US": "Order operation; see order card for details",
+    "ja-JP": "注文操作。詳細は注文カードを参照"
+  },
+  " 项商品；具体规格和地址见确认卡": {
+    "en-US": " items; see confirmation card for specifications and address",
+    "ja-JP": " 点の商品。仕様と住所は確認カードを参照"
+  },
+  " 件；具体规格和地址见确认卡": {
+    "en-US": " items; see confirmation card for specifications and address",
+    "ja-JP": " 件。仕様と住所は確認カードを参照"
+  },
+  "将真实 AgentScope 事件和业务结果投影为 AG-UI，不承担业务决策。": {
+    "en-US": "Projects real AgentScope events and business results into AG-UI; makes no business decisions.",
+    "ja-JP": "実際のAgentScopeイベントと業務結果をAG-UIに投影するもので、業務判断は行いません。"
+  },
+  "检索商品": {
+    "en-US": "Search products",
+    "ja-JP": "商品を検索"
+  },
+  "查询选购知识": {
+    "en-US": "Query shopping knowledge",
+    "ja-JP": "商品選び知識を照会"
+  },
+  "核实外部资料": {
+    "en-US": "Verify external information",
+    "ja-JP": "外部資料を検証"
+  },
+  "协调专家任务": {
+    "en-US": "Coordinate expert tasks",
+    "ja-JP": "エキスパートタスクを調整"
+  },
+  "保存购物偏好": {
+    "en-US": "Save shopping preference",
+    "ja-JP": "買い物の好みを保存"
+  },
+  "删除购物偏好": {
+    "en-US": "Delete shopping preference",
+    "ja-JP": "買い物の好みを削除"
+  },
+  "修改购物偏好": {
+    "en-US": "Update shopping preference",
+    "ja-JP": "買い物の好みを変更"
+  },
+  "准备订单意向": {
+    "en-US": "Prepare order intent",
+    "ja-JP": "意向注文を準備"
+  },
+  "查询订单": {
+    "en-US": "Query order",
+    "ja-JP": "注文を照会"
+  },
+  "准备取消确认": {
+    "en-US": "Prepare cancellation confirmation",
+    "ja-JP": "キャンセル確認を準備"
+  },
+  "读取选购方案": {
+    "en-US": "Read shopping plan",
+    "ja-JP": "商品選びプランを読み取る"
+  },
+  "查阅审核选购建议": {
+    "en-US": "Review shopping suggestions",
+    "ja-JP": "審査済み商品選び提案を確認"
+  },
+  "保留框架原始的开始/增量/结束边界，不从工具名称推测调用关联。": {
+    "en-US": "Preserve the framework's original start/delta/end boundaries; do not infer call associations from tool names.",
+    "ja-JP": "フレームワーク本来の開始/増分/終了の境界を保持し、ツール名から呼び出しの関連を推測しない。"
+  },
+  "未收到方案读取成功的结果。": {
+    "en-US": "No successful plan read result received.",
+    "ja-JP": "プラン読み取り成功の結果を受信していません。"
+  },
+  "本轮已中断，方案读取尚未完成。": {
+    "en-US": "This turn was interrupted; plan reading is not yet complete.",
+    "ja-JP": "今回のターンは中断され、プランの読み取りはまだ完了していません。"
+  },
+  "所选方案读取失败，请刷新方案，必要时新建选购后重试。": {
+    "en-US": "Failed to read the selected plan. Please refresh the plan and retry, creating a new selection if necessary.",
+    "ja-JP": "選択したプランを読み込めませんでした。プランを更新し、必要に応じて新しい会話で再試行してください。"
+  },
+  "读取所选方案": {
+    "en-US": "Read selected plan",
+    "ja-JP": "選択したプランを読み取る"
+  },
+  "不能确认方案读取成功": {
+    "en-US": "Cannot confirm plan read success",
+    "ja-JP": "プラン読み取りの成功を確認できません"
+  },
+  "方案读取未成功或版本已变化，请刷新方案后重试。": {
+    "en-US": "Plan read did not succeed or the version has changed. Please refresh the plan and retry.",
+    "ja-JP": "プランの読み取りが成功しなかったか、バージョンが変更されています。プランを更新して再試行してください。"
+  },
+  "任务": {
+    "en-US": "Task",
+    "ja-JP": "タスク"
+  },
+  "工具": {
+    "en-US": "Tools",
+    "ja-JP": "ツール"
+  },
+  "本轮执行未正常完成，请重试或缩小问题范围。": {
+    "en-US": "This run did not complete normally. Please retry or narrow the scope.",
+    "ja-JP": "今回の実行は正常に完了しませんでした。再試行するか、問題の範囲を絞ってください。"
+  },
+  "方案读取未成功或版本已变化。": {
+    "en-US": "Failed to load the plan, or the version has changed.",
+    "ja-JP": "プランの読み込みに失敗したか、バージョンが変更されています。"
+  },
+  "本次操作需要人工确认或外部执行，当前流式入口尚未接入此续接流程。": {
+    "en-US": "This operation requires manual confirmation or external execution, and the current streaming entry point does not yet support this continuation flow.",
+    "ja-JP": "この操作には手動確認または外部実行が必要ですが、現在のストリーミング入口はこの継続フローにまだ対応していません。"
+  },
+  "等待你的批准或拒绝。": {
+    "en-US": "Waiting for your approval or rejection.",
+    "ja-JP": "承認または拒否をお待ちしています。"
+  },
+  "调度业务与执行适配。定时、手动运行使用同一持久入口。": {
+    "en-US": "Schedule business and execution adaptation. Scheduled and manual runs use the same persistent entry point.",
+    "ja-JP": "スケジューリング業務と実行の適応。定期実行と手動実行は同じ永続入口を使用します。"
+  },
+  "每周通勤好物": {
+    "en-US": "Weekly Commute Picks",
+    "ja-JP": "毎週の通勤グッズ"
+  },
+  "结合预算与长期偏好，定期整理一份有依据的选购清单。": {
+    "en-US": "Regularly compile a well-grounded shopping list based on budget and long-term preferences.",
+    "ja-JP": "予算と長期的な好みに基づき、根拠のある買い物リストを定期的に作成します。"
+  },
+  "帮我挑选适合日常通勤的轻便双肩包，单件预算 500 元人民币以内，收货地中国。查询并比较最多 8 件候选，说明材质、规格、到手价与选择理由。遵守本会话中我后续补充的最新要求。": {
+    "en-US": "Help me pick a lightweight backpack for daily commuting, budget under 500 CNY per item, shipping to China. Search and compare up to 8 candidates, explaining material, specifications, final price, and reasons for selection. Follow any latest requirements I add later in this session.",
+    "ja-JP": "日常の通勤に適した軽量リュックを選んでください。1点あたりの予算は500元人民元以内、配送先は中国。最大8件の候補を検索・比較し、素材、仕様、最終価格、選択理由を説明してください。このセッションで後から追加する最新の要件に従ってください。"
+  },
+  "接着上次继续比较": {
+    "en-US": "Continue comparing from last time",
+    "ja-JP": "前回の続きから比較する"
+  },
+  "保留已选候选与排除条件，重新核实仍需确认的商品信息。": {
+    "en-US": "Keep the selected candidates and exclusion criteria, and re-verify product information that still needs confirmation.",
+    "ja-JP": "選択済みの候補と除外条件を保持し、まだ確認が必要な商品情報を再確認します。"
+  },
+  "回顾本会话中我明确选择的商品与最新要求，重新查询候选的当前价格和库存，简要更新比较结果。没有已选候选时先根据我的偏好给出候选；不代我下单。": {
+    "en-US": "Review the products I explicitly selected in this session and my latest requirements, re-query the current prices and stock of the candidates, and briefly update the comparison. If there are no selected candidates, first suggest candidates based on my preferences; do not place orders on my behalf.",
+    "ja-JP": "このセッションで私が明確に選択した商品と最新の要件を振り返り、候補の現在の価格と在庫を再照会し、比較結果を簡潔に更新してください。選択済みの候補がない場合は、まず私の好みに基づいて候補を提示してください。私の代わりに注文しないでください。"
+  },
+  "选购进展复盘": {
+    "en-US": "Shopping Progress Review",
+    "ja-JP": "購入進捗の振り返り"
+  },
+  "整理已经确定的需求、待选商品与尚未解决的问题。": {
+    "en-US": "Organize the confirmed requirements, candidate products, and unresolved issues.",
+    "ja-JP": "確定した要件、候補商品、未解決の問題を整理します。"
+  },
+  "整理本会话的选购进展：我已经确定的需求、保留和排除的候选、仍需确认的信息。区分历史观察与当前事实，不把未核验价格当成最新报价。": {
+    "en-US": "Organize the shopping progress of this session: the requirements I have confirmed, the candidates kept and excluded, and the information still needing confirmation. Distinguish historical observations from current facts, and do not treat unverified prices as the latest quotes.",
+    "ja-JP": "このセッションの購入進捗を整理してください。私が確定した要件、保持・除外した候補、まだ確認が必要な情報です。過去の観察と現在の事実を区別し、未検証の価格を最新の見積もりとして扱わないでください。"
+  },
+  "模型目录尚未配置": {
+    "en-US": "Model catalog is not configured yet",
+    "ja-JP": "モデルカタログがまだ設定されていません"
+  },
+  "模型配置已更新，请重新选择并确认": {
+    "en-US": "Model configuration has been updated. Please reselect and confirm.",
+    "ja-JP": "モデル設定が更新されました。再選択して確認してください。"
+  },
+  "Skill 已更新或不可用，请重新选择": {
+    "en-US": "Skill has been updated or is unavailable. Please reselect.",
+    "ja-JP": "スキルが更新されたか利用できません。再選択してください。"
+  },
+  "自动执行 · ": {
+    "en-US": "Auto-run · ",
+    "ja-JP": "自動実行 · "
+  },
+  "自动化启动失败 %s: %s": {
+    "en-US": "Automation failed to start %s: %s",
+    "ja-JP": "自動化の起動に失敗しました %s: %s"
+  },
+  "配置校验或启动失败，请检查模型、Skill 与服务状态": {
+    "en-US": "Configuration validation or startup failed. Please check the model, Skill, and service status.",
+    "ja-JP": "設定の検証または起動に失敗しました。モデル、スキル、サービスの状態を確認してください。"
+  },
+  "当前会话有待确认的交易，请先处理": {
+    "en-US": "This session has a pending transaction. Please handle it first.",
+    "ja-JP": "このセッションには確認待ちの取引があります。先に処理してください。"
+  },
+  "自动化调度循环失败，下轮将从数据库恢复": {
+    "en-US": "Automation scheduling loop failed; the next round will recover from the database.",
+    "ja-JP": "自動化スケジューリングループが失敗しました。次回はデータベースから復元します。"
+  },
+  "权威交易确认：工具准备快照，用户 HTTP 决议才可进入原子交易底座。": {
+    "en-US": "Authoritative transaction confirmation: tools prepare a snapshot; only a user HTTP decision can enter the atomic transaction base.",
+    "ja-JP": "権威ある取引確認：ツールはスナップショットを準備し、ユーザーの HTTP 決定のみがアトミック取引基盤に入れます。"
+  },
+  "仅供用户动作入口调用；不注册为模型工具。底座原子校验、幂等与扣补库存。": {
+    "en-US": "Called only by the user action entry point; not registered as a model tool. The base handles atomic validation, idempotency, and stock deduction/restoration.",
+    "ja-JP": "ユーザーアクション入口からのみ呼び出されます。モデルツールとしては登録されません。基盤がアトミック検証、冪等性、在庫の引き当て・戻しを行います。"
+  },
+  "向模型提供精简的权威交易状态，不重复注入收货地址或确认校验值。": {
+    "en-US": "Provide the model with a concise authoritative transaction status, without re-injecting the shipping address or confirmation verification value.",
+    "ja-JP": "モデルに簡潔な権威ある取引状態を提供し、配送先住所や確認検証値を再注入しません。"
+  },
+  "买家身份": {
+    "en-US": "Buyer identity",
+    "ja-JP": "買い手の身元"
+  },
+  "会话标识": {
+    "en-US": "Session identifier",
+    "ja-JP": "セッション識別子"
+  },
+  "订单号": {
+    "en-US": "Order number",
+    "ja-JP": "注文番号"
+  },
+  "确认凭证": {
+    "en-US": "Confirmation credential",
+    "ja-JP": "確認資格情報"
+  },
+  "快照校验值": {
+    "en-US": "Snapshot verification value",
+    "ja-JP": "スナップショット検証値"
+  },
+  "不能为空": {
+    "en-US": "Cannot be empty",
+    "ja-JP": "空にできません"
+  },
+  "确认有效期必须为正整数秒": {
+    "en-US": "Confirmation validity period must be a positive integer number of seconds",
+    "ja-JP": "確認の有効期間は正の整数秒である必要があります"
+  },
+  "PlaceOrder.items 不能为空": {
+    "en-US": "PlaceOrder.items cannot be empty",
+    "ja-JP": "PlaceOrder.items は空にできません"
+  },
+  "收货地址格式无效": {
+    "en-US": "Invalid shipping address format",
+    "ja-JP": "配送先住所の形式が無効です"
+  },
+  "确认决定必须为布尔值，不能使用模型文字或字符串": {
+    "en-US": "The confirmation decision must be a boolean; model text or strings cannot be used",
+    "ja-JP": "確認の決定はブール値である必要があり、モデルの文章や文字列は使用できません"
+  },
+  "确认列表数量必须为 1 至 20 的整数": {
+    "en-US": "The confirmation list count must be an integer from 1 to 20",
+    "ja-JP": "確認リストの件数は1から20の整数である必要があります"
+  },
+  "确认事件投递失败（可从持久存储恢复）：%s": {
+    "en-US": "Failed to deliver confirmation event (recoverable from persistent storage): %s",
+    "ja-JP": "確認イベントの配信に失敗しました（永続ストレージから復元可能）：%s"
+  },
+  "收货地址 ": {
+    "en-US": "Shipping address ",
+    "ja-JP": "配送先住所 "
+  },
+  "订单明细必须为 OrderItemInput": {
+    "en-US": "Order items must be OrderItemInput",
+    "ja-JP": "注文明細は OrderItemInput である必要があります"
+  },
+  "订单数量必须为正整数": {
+    "en-US": "Order quantity must be a positive integer",
+    "ja-JP": "注文数量は正の整数である必要があります"
+  },
+  "商品标识": {
+    "en-US": "Product identifier",
+    "ja-JP": "商品識別子"
+  },
+  "规格标识": {
+    "en-US": "Specification identifier",
+    "ja-JP": "仕様識別子"
+  },
+  "收货地址字段 ": {
+    "en-US": "Shipping address field ",
+    "ja-JP": "配送先住所フィールド "
+  },
+  " 必须是文字": {
+    "en-US": " must be text",
+    "ja-JP": " はテキストである必要があります"
+  },
+  "商品不存在：": {
+    "en-US": "Product does not exist: ",
+    "ja-JP": "商品が存在しません："
+  },
+  "Sku 不存在：": {
+    "en-US": "Sku does not exist: ",
+    "ja-JP": "Sku が存在しません："
+  },
+  "商品暂不支持配送至 ": {
+    "en-US": "This product cannot currently be shipped to ",
+    "ja-JP": "この商品は現在、次への配送に対応していません "
+  },
+  "库存不足：": {
+    "en-US": "Insufficient stock: ",
+    "ja-JP": "在庫不足："
+  },
+  "，剩余 ": {
+    "en-US": ", remaining ",
+    "ja-JP": "、残り "
+  },
+  "，需要 ": {
+    "en-US": ", required ",
+    "ja-JP": "、必要 "
+  },
+  "旅行装备": {
+    "en-US": "Travel gear",
+    "ja-JP": "トラベル用品"
+  },
+  "户外运动": {
+    "en-US": "Outdoor and sports",
+    "ja-JP": "アウトドア・スポーツ"
+  },
+  "数码配件": {
+    "en-US": "Electronics accessories",
+    "ja-JP": "デジタルアクセサリー"
+  },
+  "家居生活": {
+    "en-US": "Home and living",
+    "ja-JP": "暮らし・インテリア"
+  },
+  "厨房餐饮": {
+    "en-US": "Kitchen and dining",
+    "ja-JP": "キッチン・食卓"
+  },
+  "删除选购记录": {"en-US":"Delete shopping history","ja-JP":"選購履歴を削除"},
+  "删除选购记录：{0}": {"en-US":"Delete shopping history: {0}","ja-JP":"選購履歴を削除：{0}"},
+  "删除这条选购记录？": {"en-US":"Delete this shopping conversation?","ja-JP":"この選購履歴を削除しますか？"},
+  "删除后无法从选购历史恢复。订单、收藏和长期偏好不受影响。": {"en-US":"This conversation will no longer be available in shopping history. Orders, favorites, and saved preferences will be kept.","ja-JP":"削除後は選購履歴から復元できません。注文、お気に入り、長期設定には影響しません。"},
+  "选购记录已删除。": {"en-US":"Shopping history deleted.","ja-JP":"選購履歴を削除しました。"},
+  "正在删除…": {"en-US":"Deleting…","ja-JP":"削除中…"},
+  "请先完成或停止当前选购，再删除记录。": {"en-US":"Finish or stop the current shopping run before deleting history.","ja-JP":"実行中の選購を完了または停止してから削除してください。"},
+  "该记录仍有运行、待确认操作或关联自动化，请先处理后再删除。": {"en-US":"This conversation has an active run, pending approval, or linked automation. Resolve it before deleting.","ja-JP":"実行中の処理、確認待ちの操作、または関連する自動化があります。先に対応してから削除してください。"},
+  "删除失败，请检查连接后重试。": {"en-US":"Deletion failed. Check the connection and try again.","ja-JP":"削除できませんでした。接続を確認して再試行してください。"},
+  "办公学习": {
+    "en-US": "Office and study",
+    "ja-JP": "オフィス・学習"
+  },
+  "母婴宠物": {
+    "en-US": "Baby and pets",
+    "ja-JP": "ベビー・ペット"
+  },
+  "美妆个护": {
+    "en-US": "Beauty and personal care",
+    "ja-JP": "美容・パーソナルケア"
+  },
+  "{0}：AI 生成示意图，非商品实拍": {
+    "en-US": "{0}: AI-generated illustration, not an actual product photo",
+    "ja-JP": "{0}：AI生成イメージであり、実物写真ではありません"
+  }
+}
